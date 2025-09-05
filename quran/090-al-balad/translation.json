@@ -1,0 +1,382 @@
+[
+  {
+    "id": 6024,
+    "verse_number": 1,
+    "verse_key": "90:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168189,
+        "resource_id": 31,
+        "text": "Non !... Je jure par cette Cité <sup foot_note=233089>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 6025,
+    "verse_number": 2,
+    "verse_key": "90:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168199,
+        "resource_id": 31,
+        "text": "et toi, tu es un résident dans cette cité <sup foot_note=233091>1</sup> -"
+      }
+    ]
+  },
+  {
+    "id": 6026,
+    "verse_number": 3,
+    "verse_key": "90:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168122,
+        "resource_id": 31,
+        "text": "Et par le père et ce qu’il engendre !"
+      }
+    ]
+  },
+  {
+    "id": 6027,
+    "verse_number": 4,
+    "verse_key": "90:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168009,
+        "resource_id": 31,
+        "text": "Nous avons, certes, créé l’homme pour une vie de lutte."
+      }
+    ]
+  },
+  {
+    "id": 6028,
+    "verse_number": 5,
+    "verse_key": "90:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168123,
+        "resource_id": 31,
+        "text": "Pense-t-il que personne ne pourra rien contre lui ?"
+      }
+    ]
+  },
+  {
+    "id": 6029,
+    "verse_number": 6,
+    "verse_key": "90:6",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168201,
+        "resource_id": 31,
+        "text": "Il dit : \"J’ai gaspillé beaucoup de biens.\""
+      }
+    ]
+  },
+  {
+    "id": 6030,
+    "verse_number": 7,
+    "verse_key": "90:7",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168202,
+        "resource_id": 31,
+        "text": "Pense-t-il que nul ne l’a vu?"
+      }
+    ]
+  },
+  {
+    "id": 6031,
+    "verse_number": 8,
+    "verse_key": "90:8",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168203,
+        "resource_id": 31,
+        "text": "Ne lui avons-Nous pas assigné deux yeux,"
+      }
+    ]
+  },
+  {
+    "id": 6032,
+    "verse_number": 9,
+    "verse_key": "90:9",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168204,
+        "resource_id": 31,
+        "text": "et une langue et deux lèvres ?"
+      }
+    ]
+  },
+  {
+    "id": 6033,
+    "verse_number": 10,
+    "verse_key": "90:10",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168190,
+        "resource_id": 31,
+        "text": "Ne l’avons-Nous pas guidé aux deux voies <sup foot_note=233092>1</sup>."
+      }
+    ]
+  },
+  {
+    "id": 6034,
+    "verse_number": 11,
+    "verse_key": "90:11",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168191,
+        "resource_id": 31,
+        "text": "Or, il ne s’engage pas dans la voie difficile ! <sup foot_note=233093>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 6035,
+    "verse_number": 12,
+    "verse_key": "90:12",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168192,
+        "resource_id": 31,
+        "text": "Et qui te dira ce qu’est la voie difficile ?"
+      }
+    ]
+  },
+  {
+    "id": 6036,
+    "verse_number": 13,
+    "verse_key": "90:13",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168193,
+        "resource_id": 31,
+        "text": "C’est délier un joug [affranchir un esclave],"
+      }
+    ]
+  },
+  {
+    "id": 6037,
+    "verse_number": 14,
+    "verse_key": "90:14",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168194,
+        "resource_id": 31,
+        "text": "ou nourrir, en un jour de famine,"
+      }
+    ]
+  },
+  {
+    "id": 6038,
+    "verse_number": 15,
+    "verse_key": "90:15",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165073,
+        "resource_id": 31,
+        "text": "un orphelin proche parent."
+      }
+    ]
+  },
+  {
+    "id": 6039,
+    "verse_number": 16,
+    "verse_key": "90:16",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168195,
+        "resource_id": 31,
+        "text": "ou un pauvre dans le dénouement."
+      }
+    ]
+  },
+  {
+    "id": 6040,
+    "verse_number": 17,
+    "verse_key": "90:17",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168196,
+        "resource_id": 31,
+        "text": "Et c’est être, en outre, de ceux qui croient et s’enjoignent mutuellement l’endurance, et s’enjoignent mutuellement la miséricorde."
+      }
+    ]
+  },
+  {
+    "id": 6041,
+    "verse_number": 18,
+    "verse_key": "90:18",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168206,
+        "resource_id": 31,
+        "text": "Ceux-là sont les gens de la droite ;"
+      }
+    ]
+  },
+  {
+    "id": 6042,
+    "verse_number": 19,
+    "verse_key": "90:19",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168198,
+        "resource_id": 31,
+        "text": "alors que ceux qui ne croient pas en Nos versets sont les gens de la gauche."
+      }
+    ]
+  },
+  {
+    "id": 6043,
+    "verse_number": 20,
+    "verse_key": "90:20",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 534,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168200,
+        "resource_id": 31,
+        "text": "Le Feu se refermera sur eux."
+      }
+    ]
+  }
+]

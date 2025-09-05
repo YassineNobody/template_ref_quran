@@ -1,0 +1,18 @@
+{
+  "id": 100,
+  "revelation_place": "makkah",
+  "revelation_order": 14,
+  "bismillah_pre": true,
+  "name_simple": "Al-'Adiyat",
+  "name_complex": "Al-`Ādiyāt",
+  "name_arabic": "العاديات",
+  "verses_count": 11,
+  "pages": [
+    599,
+    600
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "Les coursiers"
+  }
+}

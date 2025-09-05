@@ -1,0 +1,18 @@
+{
+  "id": 112,
+  "revelation_place": "makkah",
+  "revelation_order": 22,
+  "bismillah_pre": true,
+  "name_simple": "Al-Ikhlas",
+  "name_complex": "Al-'Ikhlāş",
+  "name_arabic": "الإخلاص",
+  "verses_count": 4,
+  "pages": [
+    604,
+    604
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "La sincérité"
+  }
+}

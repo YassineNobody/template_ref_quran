@@ -1,0 +1,1693 @@
+[
+  {
+    "id": 4326,
+    "verse_number": 1,
+    "verse_key": "43:1",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 168588,
+        "resource_id": 31,
+        "text": "Hâ, Mîm . <sup foot_note=232624>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4327,
+    "verse_number": 2,
+    "verse_key": "43:2",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165962,
+        "resource_id": 31,
+        "text": "Par le Livre explicite !"
+      }
+    ]
+  },
+  {
+    "id": 4328,
+    "verse_number": 3,
+    "verse_key": "43:3",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165953,
+        "resource_id": 31,
+        "text": "Nous en avons fait un Coran arabe afin que vous raisonniez."
+      }
+    ]
+  },
+  {
+    "id": 4329,
+    "verse_number": 4,
+    "verse_key": "43:4",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166132,
+        "resource_id": 31,
+        "text": "Il est auprès de Nous, dans l’Ecriture-Mère (l’original du ciel), sublime et rempli de sagesse."
+      }
+    ]
+  },
+  {
+    "id": 4330,
+    "verse_number": 5,
+    "verse_key": "43:5",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 164868,
+        "resource_id": 31,
+        "text": "Quoi! Allons-Nous vous dispenser du Rappel [le Coran] pour la raison que vous êtes des gens outranciers ?"
+      }
+    ]
+  },
+  {
+    "id": 4331,
+    "verse_number": 6,
+    "verse_key": "43:6",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166096,
+        "resource_id": 31,
+        "text": "Que de Prophètes avons-Nous envoyés aux Anciens !"
+      }
+    ]
+  },
+  {
+    "id": 4332,
+    "verse_number": 7,
+    "verse_key": "43:7",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165999,
+        "resource_id": 31,
+        "text": "et pas un Prophète ne leur venait qu’ils ne le tournaient en dérision."
+      }
+    ]
+  },
+  {
+    "id": 4333,
+    "verse_number": 8,
+    "verse_key": "43:8",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166009,
+        "resource_id": 31,
+        "text": "Nous avons fait périr de plus redoutables qu’eux! Et on a déjà cité l’exemple des anciens."
+      }
+    ]
+  },
+  {
+    "id": 4334,
+    "verse_number": 9,
+    "verse_key": "43:9",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166022,
+        "resource_id": 31,
+        "text": "Et si tu leur demandes : \"Qui a créé les cieux et la terre ?\" Ils diront très certainement : \"Le Puissant, l’Omniscient les a créés.\""
+      }
+    ]
+  },
+  {
+    "id": 4335,
+    "verse_number": 10,
+    "verse_key": "43:10",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 489,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165926,
+        "resource_id": 31,
+        "text": "Celui qui vous a donné la terre pour berceau et vous y a tracé des sentiers afin que vous vous guidiez ;"
+      }
+    ]
+  },
+  {
+    "id": 4336,
+    "verse_number": 11,
+    "verse_key": "43:11",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165928,
+        "resource_id": 31,
+        "text": "Celui qui a fait descendre l’eau du ciel avec mesure et avec laquelle Nous ranimons une cité morte [aride]. Ainsi vous serez ressuscités ;"
+      }
+    ]
+  },
+  {
+    "id": 4337,
+    "verse_number": 12,
+    "verse_key": "43:12",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165929,
+        "resource_id": 31,
+        "text": "Celui qui a créé les couples dans leur totalité et a fait pour vous, des vaisseaux et des bestiaux, des montures,"
+      }
+    ]
+  },
+  {
+    "id": 4338,
+    "verse_number": 13,
+    "verse_key": "43:13",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165930,
+        "resource_id": 31,
+        "text": "afin que vous vous installiez sur leurs dos, et qu’ensuite, après vous y être installés, vous vous rappeliez le bienfait de votre Seigneur et que vous disiez : \"Gloire à Celui qui nous a soumis tout cela alors que nous n’étions pas capables de les dominer."
+      }
+    ]
+  },
+  {
+    "id": 4339,
+    "verse_number": 14,
+    "verse_key": "43:14",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 164982,
+        "resource_id": 31,
+        "text": "C’est vers notre Seigneur que nous retournerons.\""
+      }
+    ]
+  },
+  {
+    "id": 4340,
+    "verse_number": 15,
+    "verse_key": "43:15",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 426,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165937,
+        "resource_id": 31,
+        "text": "Et ils Lui firent de Ses serviteurs une partie [de Lui-Même]. L’homme est vraiment un ingrat déclaré!"
+      }
+    ]
+  },
+  {
+    "id": 4341,
+    "verse_number": 16,
+    "verse_key": "43:16",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165932,
+        "resource_id": 31,
+        "text": "Ou bien Se serait-Il attribué des filles parmi ce qu’Il crée et accordé à vous par préférence des fils  ? <sup foot_note=232629>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4342,
+    "verse_number": 17,
+    "verse_key": "43:17",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165933,
+        "resource_id": 31,
+        "text": "Or, quand on annonce à l’un d’eux (la naissance) d’une semblable de ce qu’il attribue au Tout Miséricordieux, son visage s’assombrit d’un chagrin profond."
+      }
+    ]
+  },
+  {
+    "id": 4343,
+    "verse_number": 18,
+    "verse_key": "43:18",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165934,
+        "resource_id": 31,
+        "text": "Quoi ! Cet être (la fille) élevé au milieu des parures et qui, dans la dispute, est incapable de se défendre par une argumentation claire et convaincante  ? <sup foot_note=232631>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4344,
+    "verse_number": 19,
+    "verse_key": "43:19",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165935,
+        "resource_id": 31,
+        "text": "Et ils firent des Anges qui sont les serviteurs du Tout Miséricordieux des [êtres] féminins! Etaient-ils témoins de leur création? Leur témoignage sera alors inscrit; et ils seront interrogés."
+      }
+    ]
+  },
+  {
+    "id": 4345,
+    "verse_number": 20,
+    "verse_key": "43:20",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165938,
+        "resource_id": 31,
+        "text": "Et ils dirent : \"Si le Tout Miséricordieux avait voulu, nous ne les aurions pas adorés.\" Ils n’en ont aucune connaissance; ils ne font que se livrer à des conjectures."
+      }
+    ]
+  },
+  {
+    "id": 4346,
+    "verse_number": 21,
+    "verse_key": "43:21",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165940,
+        "resource_id": 31,
+        "text": "Ou bien, leur avions-Nous donné avant lui [le Coran] un Livre auquel ils seraient fermement attachés ?"
+      }
+    ]
+  },
+  {
+    "id": 4347,
+    "verse_number": 22,
+    "verse_key": "43:22",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 490,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165941,
+        "resource_id": 31,
+        "text": "Mais plutôt ils dirent : \"Nous avons trouvé nos ancêtres sur une religion, et nous nous guidons sur leurs traces.\""
+      }
+    ]
+  },
+  {
+    "id": 4348,
+    "verse_number": 23,
+    "verse_key": "43:23",
+    "hizb_number": 49,
+    "rub_el_hizb_number": 196,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165942,
+        "resource_id": 31,
+        "text": "Et c’est ainsi que Nous n’avons pas envoyé avant toi d’avertisseur en une cité sans que ses gens aisés n’aient dit : \"Nous avons trouvé nos ancêtres sur une religion et nous suivons leurs traces.\""
+      }
+    ]
+  },
+  {
+    "id": 4349,
+    "verse_number": 24,
+    "verse_key": "43:24",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165943,
+        "resource_id": 31,
+        "text": "Il dit : \"Même si je viens à vous avec une meilleure direction que celle sur laquelle vous avez trouvé vous ancêtres ?\" Ils dirent : \"Nous ne croyons pas au message avec lequel vous avez été envoyés.\" <sup foot_note=232635>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4350,
+    "verse_number": 25,
+    "verse_key": "43:25",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 427,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165949,
+        "resource_id": 31,
+        "text": "Nous Nous vengeâmes d’eux. Regarde ce qu’il est devenu de ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 4351,
+    "verse_number": 26,
+    "verse_key": "43:26",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165944,
+        "resource_id": 31,
+        "text": "Et lorsqu’Abraham dit à son père et à son peuple : \"Je désavoue totalement ce que vous adorez,"
+      }
+    ]
+  },
+  {
+    "id": 4352,
+    "verse_number": 27,
+    "verse_key": "43:27",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165947,
+        "resource_id": 31,
+        "text": "à l’exception de Celui qui m’a créé, car c’est Lui en vérité qui me guidera.\""
+      }
+    ]
+  },
+  {
+    "id": 4353,
+    "verse_number": 28,
+    "verse_key": "43:28",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165945,
+        "resource_id": 31,
+        "text": "Et il en  fit une parole qui devait se perpétuer parmi sa descendance. Peut-être reviendront-ils ? <sup foot_note=232638>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4354,
+    "verse_number": 29,
+    "verse_key": "43:29",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165946,
+        "resource_id": 31,
+        "text": "Mais à ces gens ainsi à leurs ancêtres, J’ai accordé la jouissance jusqu’à ce que leur vinrent la Vérité (le Coran) et un Messager explicite."
+      }
+    ]
+  },
+  {
+    "id": 4355,
+    "verse_number": 30,
+    "verse_key": "43:30",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165951,
+        "resource_id": 31,
+        "text": "Et quand la Vérité leur vint, ils dirent : \"C’est de la magie et nous n’y croyons pas.\""
+      }
+    ]
+  },
+  {
+    "id": 4356,
+    "verse_number": 31,
+    "verse_key": "43:31",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165950,
+        "resource_id": 31,
+        "text": "Et ils dirent : \"Pourquoi n’a-t-on pas fait descendre ce Coran sur un haut personnage de l’une des deux cités ?\" (la Mecque et Tâif) . <sup foot_note=232640>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4357,
+    "verse_number": 32,
+    "verse_key": "43:32",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165952,
+        "resource_id": 31,
+        "text": "Est-ce eux qui distribuent la miséricorde de ton Seigneur ? C’est Nous qui avons réparti entre eux leur subsistance dans la vie présente et qui les avons élevés en grades les uns sur les autres, afin que les uns prennent les autres à leur service. La miséricorde de ton Seigneur vaut mieux, cependant, que ce qu’ils amassent."
+      }
+    ]
+  },
+  {
+    "id": 4358,
+    "verse_number": 33,
+    "verse_key": "43:33",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 491,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165956,
+        "resource_id": 31,
+        "text": "Si les hommes ne devaient pas constituer une seule communauté (mécréante), Nous aurions certes pourvu les maisons de ceux qui ne croient pas au Tout Miséricordieux, de toits d’argent avec des escaliers pour y monter ;"
+      }
+    ]
+  },
+  {
+    "id": 4359,
+    "verse_number": 34,
+    "verse_key": "43:34",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165954,
+        "resource_id": 31,
+        "text": "(Nous aurions pourvu) leurs maisons de portes et de divans où ils s’accouderaient,"
+      }
+    ]
+  },
+  {
+    "id": 4360,
+    "verse_number": 35,
+    "verse_key": "43:35",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 428,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165955,
+        "resource_id": 31,
+        "text": "ainsi que des ornements. Et tout cela ne serait que jouissance temporaire de la vie d’ici-bas, alors que l’au-delà, auprès de ton Seigneur, est pour les pieux."
+      }
+    ]
+  },
+  {
+    "id": 4361,
+    "verse_number": 36,
+    "verse_key": "43:36",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165957,
+        "resource_id": 31,
+        "text": "Et quiconque s’aveugle (et s’écarte) du rappel du Tout Miséricordieux, Nous lui désignons un diable qui devient son compagnon inséparable."
+      }
+    ]
+  },
+  {
+    "id": 4362,
+    "verse_number": 37,
+    "verse_key": "43:37",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165958,
+        "resource_id": 31,
+        "text": "Ils (Les diables) détournent certes [les hommes] du droit chemin, tandis que ceux-ci s’estiment être bien guidés."
+      }
+    ]
+  },
+  {
+    "id": 4363,
+    "verse_number": 38,
+    "verse_key": "43:38",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165959,
+        "resource_id": 31,
+        "text": "Lorsque cet [homme] vient à Nous, il dira [à son démon] : \"Hélas ! Que n’y a-t-il entre toi et moi la distance entre les deux orients [l’Est et l’Ouest] !\" - Quel mauvais compagnon [que tu es] !"
+      }
+    ]
+  },
+  {
+    "id": 4364,
+    "verse_number": 39,
+    "verse_key": "43:39",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165960,
+        "resource_id": 31,
+        "text": "Il ne vous profitera point ce jour-là - du moment que vous avez été injustes - que vous soyez associés dans le châtiment."
+      }
+    ]
+  },
+  {
+    "id": 4365,
+    "verse_number": 40,
+    "verse_key": "43:40",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165966,
+        "resource_id": 31,
+        "text": "Est-ce donc toi qui fait entendre les sourds ou qui guide les aveugles et ceux qui sont dans un égarement évident?"
+      }
+    ]
+  },
+  {
+    "id": 4366,
+    "verse_number": 41,
+    "verse_key": "43:41",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165964,
+        "resource_id": 31,
+        "text": "Soit que Nous t’enlevons [te ferons mourir] et alors Nous Nous vengerons d’eux ;"
+      }
+    ]
+  },
+  {
+    "id": 4367,
+    "verse_number": 42,
+    "verse_key": "43:42",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165965,
+        "resource_id": 31,
+        "text": "Ou bien que Nous te ferons voir ce que Nous leur avons promis [le châtiment] ; car Nous avons sur eux un pouvoir certain."
+      }
+    ]
+  },
+  {
+    "id": 4368,
+    "verse_number": 43,
+    "verse_key": "43:43",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165974,
+        "resource_id": 31,
+        "text": "Tiens fermement à ce qui t’a été révélé car tu es sur le droit chemin."
+      }
+    ]
+  },
+  {
+    "id": 4369,
+    "verse_number": 44,
+    "verse_key": "43:44",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165967,
+        "resource_id": 31,
+        "text": "C’est certainement un rappel [le Coran] pour toi et ton peuple. Et vous en serez interrogés."
+      }
+    ]
+  },
+  {
+    "id": 4370,
+    "verse_number": 45,
+    "verse_key": "43:45",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 429,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165968,
+        "resource_id": 31,
+        "text": "Et demande à ceux de Nos messagers que Nous avons envoyés avant toi, si Nous avons institué, en dehors du Tout Miséricordieux, des divinités à adorer ?"
+      }
+    ]
+  },
+  {
+    "id": 4371,
+    "verse_number": 46,
+    "verse_key": "43:46",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165969,
+        "resource_id": 31,
+        "text": "Nous avons effectivement envoyé Moïse avec Nos miracles, à Pharaon et à ses notables. Il dit : \"Je suis le Messager du Seigneur de l’Univers.\""
+      }
+    ]
+  },
+  {
+    "id": 4372,
+    "verse_number": 47,
+    "verse_key": "43:47",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 492,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165970,
+        "resource_id": 31,
+        "text": "Puis lorsqu’il vint à eux avec Nos miracles, voilà qu’ils en rirent."
+      }
+    ]
+  },
+  {
+    "id": 4373,
+    "verse_number": 48,
+    "verse_key": "43:48",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165971,
+        "resource_id": 31,
+        "text": "Chaque miracle que Nous leur montrions était plus probant que son précédent. Et Nous les saisîmes par châtiment, peut-être reviendront-ils [vers Nous]."
+      }
+    ]
+  },
+  {
+    "id": 4374,
+    "verse_number": 49,
+    "verse_key": "43:49",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165972,
+        "resource_id": 31,
+        "text": "Et ils dirent: \"Ô magicien ! Implore pour nous ton Seigneur au nom de l’engagement  qu’Il a pris envers toi. Nous suivrons le droit chemin.\" <sup foot_note=232647>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4375,
+    "verse_number": 50,
+    "verse_key": "43:50",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165985,
+        "resource_id": 31,
+        "text": "Puis quand Nous eûmes écarté d’eux le châtiment, voilà qu’ils violèrent leurs engagements."
+      }
+    ]
+  },
+  {
+    "id": 4376,
+    "verse_number": 51,
+    "verse_key": "43:51",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165975,
+        "resource_id": 31,
+        "text": "Et Pharaon fit une proclamation à son peuple et dit: \"ô mon peuple ! Le royaume de Misr [l’Egypte] ne m’appartient-il pas ainsi que ces canaux qui coulent à mes pieds ? N’observez-vous donc pas ?"
+      }
+    ]
+  },
+  {
+    "id": 4377,
+    "verse_number": 52,
+    "verse_key": "43:52",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165976,
+        "resource_id": 31,
+        "text": "Ne suis-je par meilleur que ce misérable qui sait à peine s’exprimer ?"
+      }
+    ]
+  },
+  {
+    "id": 4378,
+    "verse_number": 53,
+    "verse_key": "43:53",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165977,
+        "resource_id": 31,
+        "text": "Pourquoi ne lui a-t-on lancé des bracelets d’or ? Pourquoi les Anges ne l’ont-ils pas accompagné ?\""
+      }
+    ]
+  },
+  {
+    "id": 4379,
+    "verse_number": 54,
+    "verse_key": "43:54",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165978,
+        "resource_id": 31,
+        "text": "Ainsi chercha-t-il à étourdir son peuple et ainsi lui obéirent-ils car ils étaient des gens pervers."
+      }
+    ]
+  },
+  {
+    "id": 4380,
+    "verse_number": 55,
+    "verse_key": "43:55",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165979,
+        "resource_id": 31,
+        "text": "Puis lorsqu’ils Nous eurent irrité, Nous Nous vengeâmes d’eux et les noyâmes tous."
+      }
+    ]
+  },
+  {
+    "id": 4381,
+    "verse_number": 56,
+    "verse_key": "43:56",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 197,
+    "ruku_number": 430,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165982,
+        "resource_id": 31,
+        "text": "Nous fîmes d’eux un antécédent et un exemple [une leçon] pour la postérité."
+      }
+    ]
+  },
+  {
+    "id": 4382,
+    "verse_number": 57,
+    "verse_key": "43:57",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165980,
+        "resource_id": 31,
+        "text": "Quand on cite l’exemple du fils de Marie, ton peuple s’en détourne , <sup foot_note=232650>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4383,
+    "verse_number": 58,
+    "verse_key": "43:58",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165981,
+        "resource_id": 31,
+        "text": "en disant : \"Nos dieux sont-ils meilleurs, ou bien lui ?\" Ce n’est que par polémique qu’ils te le citent comme exemple. Ce sont plutôt des gens chicaniers."
+      }
+    ]
+  },
+  {
+    "id": 4384,
+    "verse_number": 59,
+    "verse_key": "43:59",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165983,
+        "resource_id": 31,
+        "text": "Il (Jésus) n’était qu’un Serviteur que Nous avions comblé de bienfaits et que Nous avions désigné en exemples aux Enfants d’Israël."
+      }
+    ]
+  },
+  {
+    "id": 4385,
+    "verse_number": 60,
+    "verse_key": "43:60",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 493,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165989,
+        "resource_id": 31,
+        "text": "Si Nous voulions, Nous ferions de vous des Anges qui vous succéderaient sur la terre."
+      }
+    ]
+  },
+  {
+    "id": 4386,
+    "verse_number": 61,
+    "verse_key": "43:61",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165986,
+        "resource_id": 31,
+        "text": "Il sera un signe au sujet de l’Heure. N’en doutez point. Et suivez-moi : voilà un droit chemin."
+      }
+    ]
+  },
+  {
+    "id": 4387,
+    "verse_number": 62,
+    "verse_key": "43:62",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165987,
+        "resource_id": 31,
+        "text": "Que le Diable ne vous détourne point ! Car il est pour vous un ennemi déclaré."
+      }
+    ]
+  },
+  {
+    "id": 4388,
+    "verse_number": 63,
+    "verse_key": "43:63",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165988,
+        "resource_id": 31,
+        "text": "Et quand Jésus apporta les preuves, il dit : \"Je suis venu à vous avec la sagesse et pour vous expliquer certains de vos sujets de désaccord. Craignez Allah donc et obéissez-moi."
+      }
+    ]
+  },
+  {
+    "id": 4389,
+    "verse_number": 64,
+    "verse_key": "43:64",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165991,
+        "resource_id": 31,
+        "text": "Allah est en vérité mon Seigneur et votre Seigneur. Adorez- Le donc. Voilà un droit chemin."
+      }
+    ]
+  },
+  {
+    "id": 4390,
+    "verse_number": 65,
+    "verse_key": "43:65",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165990,
+        "resource_id": 31,
+        "text": "Mais les factions divergèrent entre elles . Malheur donc aux injustes du châtiment d’un jour douloureux ! <sup foot_note=232654>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4391,
+    "verse_number": 66,
+    "verse_key": "43:66",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165996,
+        "resource_id": 31,
+        "text": "Attendent-ils seulement que l’Heure leur vienne à l’improviste, sans qu’ils ne s’en rendent compte ?"
+      }
+    ]
+  },
+  {
+    "id": 4392,
+    "verse_number": 67,
+    "verse_key": "43:67",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 431,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165992,
+        "resource_id": 31,
+        "text": "Les amies, ce jour-là, seront ennemies les uns des autres; excepté les pieux."
+      }
+    ]
+  },
+  {
+    "id": 4393,
+    "verse_number": 68,
+    "verse_key": "43:68",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165993,
+        "resource_id": 31,
+        "text": "\"Ô Mes serviteurs ! Vous ne devez avoir aucune crainte aujourd’hui; vous ne serez point affligés,"
+      }
+    ]
+  },
+  {
+    "id": 4394,
+    "verse_number": 69,
+    "verse_key": "43:69",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165994,
+        "resource_id": 31,
+        "text": "Ceux qui croient en Nos signe et sont musulmans , <sup foot_note=232656>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4395,
+    "verse_number": 70,
+    "verse_key": "43:70",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165997,
+        "resource_id": 31,
+        "text": "\"Entrez au Paradis, vous et vos épouses, vous y serez fêtés.\""
+      }
+    ]
+  },
+  {
+    "id": 4396,
+    "verse_number": 71,
+    "verse_key": "43:71",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 165998,
+        "resource_id": 31,
+        "text": "On fera circuler parmi eux des plats d’or et des coupes; et il y aura là [pour eux] tout ce que les âmes désirent et ce qui réjouit les yeux ; - \"et vous y demeurerez éternellement."
+      }
+    ]
+  },
+  {
+    "id": 4397,
+    "verse_number": 72,
+    "verse_key": "43:72",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166005,
+        "resource_id": 31,
+        "text": "Tel est le Paradis qu’on vous fait hériter pour ce que vous faisiez."
+      }
+    ]
+  },
+  {
+    "id": 4398,
+    "verse_number": 73,
+    "verse_key": "43:73",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 494,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166000,
+        "resource_id": 31,
+        "text": "Il y aura là pour vous beaucoup de fruits dont vous mangerez.\""
+      }
+    ]
+  },
+  {
+    "id": 4399,
+    "verse_number": 74,
+    "verse_key": "43:74",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166001,
+        "resource_id": 31,
+        "text": "Quant aux criminels, ils demeureront dans le châtiment de l’Enfer,"
+      }
+    ]
+  },
+  {
+    "id": 4400,
+    "verse_number": 75,
+    "verse_key": "43:75",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166002,
+        "resource_id": 31,
+        "text": "qui ne sera jamais interrompu pour eux et où ils seront en désespoir."
+      }
+    ]
+  },
+  {
+    "id": 4401,
+    "verse_number": 76,
+    "verse_key": "43:76",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166003,
+        "resource_id": 31,
+        "text": "Nous ne leur avons fait aucun tort, mais c’étaient eux les injustes."
+      }
+    ]
+  },
+  {
+    "id": 4402,
+    "verse_number": 77,
+    "verse_key": "43:77",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166004,
+        "resource_id": 31,
+        "text": "Et ils crieront : \"Ô Mâlik  ! Que ton Seigneur nous achève !\" Il dira : \"En vérité, vous êtes pour y demeurer [éternellement] !\" <sup foot_note=232659>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4403,
+    "verse_number": 78,
+    "verse_key": "43:78",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166006,
+        "resource_id": 31,
+        "text": "\"Certes, Nous vous avions apporté la Vérité ; mais la plupart d’entre vous détestaient la Vérité.\""
+      }
+    ]
+  },
+  {
+    "id": 4404,
+    "verse_number": 79,
+    "verse_key": "43:79",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166007,
+        "resource_id": 31,
+        "text": "Ont-ils pris quelque décision  [entre eux] ? Car c’est Nous qui décidons ! <sup foot_note=232661>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4405,
+    "verse_number": 80,
+    "verse_key": "43:80",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166010,
+        "resource_id": 31,
+        "text": "Ou bien escomptent-ils que Nous n’entendons pas leur secret ni leurs délibérations ? Mais si! Nos Anges prennent note auprès d’eux."
+      }
+    ]
+  },
+  {
+    "id": 4406,
+    "verse_number": 81,
+    "verse_key": "43:81",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166011,
+        "resource_id": 31,
+        "text": "Dis : \"Si le Tout Miséricordieux avait un enfant, alors je serais le premier à l’adorer.\""
+      }
+    ]
+  },
+  {
+    "id": 4407,
+    "verse_number": 82,
+    "verse_key": "43:82",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166012,
+        "resource_id": 31,
+        "text": "Gloire au Seigneur des cieux et de la terre, Seigneur du Trône ; Il transcende de ce qu’ils décrivent."
+      }
+    ]
+  },
+  {
+    "id": 4408,
+    "verse_number": 83,
+    "verse_key": "43:83",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166013,
+        "resource_id": 31,
+        "text": "Laisse-les donc s’enfoncer dans leur fausseté et s’amuser jusqu’à ce qu’ils rencontrent le jour qui leur est promis."
+      }
+    ]
+  },
+  {
+    "id": 4409,
+    "verse_number": 84,
+    "verse_key": "43:84",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166014,
+        "resource_id": 31,
+        "text": "C’est Lui qui est adoré dans le ciel et adoré sur Terre ; et c’est Lui le Sage, l’Omniscient !"
+      }
+    ]
+  },
+  {
+    "id": 4410,
+    "verse_number": 85,
+    "verse_key": "43:85",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166015,
+        "resource_id": 31,
+        "text": "Et béni soit Celui à qui appartient la souveraineté des cieux et de la terre et de ce qui est entre eux. Il détient la science de l’Heure. Et c’est vers Lui que vous serez ramenés."
+      }
+    ]
+  },
+  {
+    "id": 4411,
+    "verse_number": 86,
+    "verse_key": "43:86",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166017,
+        "resource_id": 31,
+        "text": "Et ceux qu’ils invoquent en dehors de Lui n’ont aucun pouvoir d’intercession, à l’exception de ceux qui auront témoigné de la vérité en pleine connaissance de cause."
+      }
+    ]
+  },
+  {
+    "id": 4412,
+    "verse_number": 87,
+    "verse_key": "43:87",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166018,
+        "resource_id": 31,
+        "text": "Et si tu leur demandes qui les a créés, ils diront très certainement : \"Allah\". Comment se fait-il donc qu’ils se détournent ?"
+      }
+    ]
+  },
+  {
+    "id": 4413,
+    "verse_number": 88,
+    "verse_key": "43:88",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166019,
+        "resource_id": 31,
+        "text": "Et sa parole (la parole du Prophète à Allah) : \"Seigneur, ce sont là des gens qui ne croient pas.\""
+      }
+    ]
+  },
+  {
+    "id": 4414,
+    "verse_number": 89,
+    "verse_key": "43:89",
+    "hizb_number": 50,
+    "rub_el_hizb_number": 198,
+    "ruku_number": 432,
+    "manzil_number": 6,
+    "sajdah_number": null,
+    "page_number": 495,
+    "juz_number": 25,
+    "translations": [
+      {
+        "id": 166021,
+        "resource_id": 31,
+        "text": "Et bien, éloigne-toi d’eux (pardonne-leur); et dit: \"Paix (Salâm) !\" Car ils sauront bientôt."
+      }
+    ]
+  }
+]

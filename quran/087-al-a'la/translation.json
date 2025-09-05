@@ -1,0 +1,363 @@
+[
+  {
+    "id": 5949,
+    "verse_number": 1,
+    "verse_key": "87:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168112,
+        "resource_id": 31,
+        "text": "Glorifie le nom de ton Seigneur, le Très Haut,"
+      }
+    ]
+  },
+  {
+    "id": 5950,
+    "verse_number": 2,
+    "verse_key": "87:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168127,
+        "resource_id": 31,
+        "text": "Celui Qui a créé et agencé harmonieusement,"
+      }
+    ]
+  },
+  {
+    "id": 5951,
+    "verse_number": 3,
+    "verse_key": "87:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168129,
+        "resource_id": 31,
+        "text": "qui a décrété et guidé,"
+      }
+    ]
+  },
+  {
+    "id": 5952,
+    "verse_number": 4,
+    "verse_key": "87:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168131,
+        "resource_id": 31,
+        "text": "et qui a fait pousser le pâturage,"
+      }
+    ]
+  },
+  {
+    "id": 5953,
+    "verse_number": 5,
+    "verse_key": "87:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168137,
+        "resource_id": 31,
+        "text": "et en a fait ensuite un foin sombre."
+      }
+    ]
+  },
+  {
+    "id": 5954,
+    "verse_number": 6,
+    "verse_key": "87:6",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168132,
+        "resource_id": 31,
+        "text": "Nous te ferons réciter (le Coran), de sorte que tu n’oublieras."
+      }
+    ]
+  },
+  {
+    "id": 5955,
+    "verse_number": 7,
+    "verse_key": "87:7",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168133,
+        "resource_id": 31,
+        "text": "que ce qu’Allah veut. Car, Il connaît ce qui paraît au grand jour ainsi que ce qui est caché."
+      }
+    ]
+  },
+  {
+    "id": 5956,
+    "verse_number": 8,
+    "verse_key": "87:8",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168134,
+        "resource_id": 31,
+        "text": "Nous te mettrons sur la voie la plus facile."
+      }
+    ]
+  },
+  {
+    "id": 5957,
+    "verse_number": 9,
+    "verse_key": "87:9",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168135,
+        "resource_id": 31,
+        "text": "Rappelle, donc, où le Rappel doit être utile."
+      }
+    ]
+  },
+  {
+    "id": 5958,
+    "verse_number": 10,
+    "verse_key": "87:10",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168125,
+        "resource_id": 31,
+        "text": "Quiconque craint (Allah) s’[en] rappellera,"
+      }
+    ]
+  },
+  {
+    "id": 5959,
+    "verse_number": 11,
+    "verse_key": "87:11",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168113,
+        "resource_id": 31,
+        "text": "et s’en écartera le grand malheureux,"
+      }
+    ]
+  },
+  {
+    "id": 5960,
+    "verse_number": 12,
+    "verse_key": "87:12",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168114,
+        "resource_id": 31,
+        "text": "qui brûlera dans le plus grand Feu,"
+      }
+    ]
+  },
+  {
+    "id": 5961,
+    "verse_number": 13,
+    "verse_key": "87:13",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168115,
+        "resource_id": 31,
+        "text": "où il ne mourra ni ne vivra."
+      }
+    ]
+  },
+  {
+    "id": 5962,
+    "verse_number": 14,
+    "verse_key": "87:14",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168116,
+        "resource_id": 31,
+        "text": "Réussit, certes, celui qui se purifie,"
+      }
+    ]
+  },
+  {
+    "id": 5963,
+    "verse_number": 15,
+    "verse_key": "87:15",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168117,
+        "resource_id": 31,
+        "text": "et se rappelle le nom de son Seigneur, puis célèbre la prière (As-Salât)."
+      }
+    ]
+  },
+  {
+    "id": 5964,
+    "verse_number": 16,
+    "verse_key": "87:16",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 592,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168118,
+        "resource_id": 31,
+        "text": "Mais, vous préférez plutôt la vie présente,"
+      }
+    ]
+  },
+  {
+    "id": 5965,
+    "verse_number": 17,
+    "verse_key": "87:17",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 592,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168119,
+        "resource_id": 31,
+        "text": "alors que l’au-delà est meilleur et plus durable."
+      }
+    ]
+  },
+  {
+    "id": 5966,
+    "verse_number": 18,
+    "verse_key": "87:18",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 592,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168120,
+        "resource_id": 31,
+        "text": "Ceci se trouve, certes, dans les Feuilles anciennes,"
+      }
+    ]
+  },
+  {
+    "id": 5967,
+    "verse_number": 19,
+    "verse_key": "87:19",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 531,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 592,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168121,
+        "resource_id": 31,
+        "text": "les Feuilles d’Abraham et de Moïse."
+      }
+    ]
+  }
+]

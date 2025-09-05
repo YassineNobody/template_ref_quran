@@ -1,0 +1,401 @@
+[
+  {
+    "id": 6059,
+    "verse_number": 1,
+    "verse_key": "92:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168292,
+        "resource_id": 31,
+        "text": "Par la nuit quand elle enveloppe tous !"
+      }
+    ]
+  },
+  {
+    "id": 6060,
+    "verse_number": 2,
+    "verse_key": "92:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168280,
+        "resource_id": 31,
+        "text": "Par le jour quand il éclaire !"
+      }
+    ]
+  },
+  {
+    "id": 6061,
+    "verse_number": 3,
+    "verse_key": "92:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168286,
+        "resource_id": 31,
+        "text": "Et par ce qu’Il a créé, mâle et femelle !"
+      }
+    ]
+  },
+  {
+    "id": 6062,
+    "verse_number": 4,
+    "verse_key": "92:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168239,
+        "resource_id": 31,
+        "text": "Vos efforts sont divergents."
+      }
+    ]
+  },
+  {
+    "id": 6063,
+    "verse_number": 5,
+    "verse_key": "92:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168241,
+        "resource_id": 31,
+        "text": "Celui qui donne et craint (Allah) <sup foot_note=233098>1</sup>."
+      }
+    ]
+  },
+  {
+    "id": 6064,
+    "verse_number": 6,
+    "verse_key": "92:6",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168289,
+        "resource_id": 31,
+        "text": "et déclare véridique la plus belle récompense."
+      }
+    ]
+  },
+  {
+    "id": 6065,
+    "verse_number": 7,
+    "verse_key": "92:7",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168290,
+        "resource_id": 31,
+        "text": "Nous lui faciliterons la voie au plus grand bonheur."
+      }
+    ]
+  },
+  {
+    "id": 6066,
+    "verse_number": 8,
+    "verse_key": "92:8",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168294,
+        "resource_id": 31,
+        "text": "Et quand à celui qui est avare, se dispense (de l’adoration d’Allah),"
+      }
+    ]
+  },
+  {
+    "id": 6067,
+    "verse_number": 9,
+    "verse_key": "92:9",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168296,
+        "resource_id": 31,
+        "text": "et traite de mensonge la plus belle récompense,"
+      }
+    ]
+  },
+  {
+    "id": 6068,
+    "verse_number": 10,
+    "verse_key": "92:10",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168270,
+        "resource_id": 31,
+        "text": "Nous lui faciliterons la voie à la plus grande difficulté,"
+      }
+    ]
+  },
+  {
+    "id": 6069,
+    "verse_number": 11,
+    "verse_key": "92:11",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168271,
+        "resource_id": 31,
+        "text": "et à rien ne lui serviront ses richesses quand il sera jeté (au Feu)."
+      }
+    ]
+  },
+  {
+    "id": 6070,
+    "verse_number": 12,
+    "verse_key": "92:12",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168284,
+        "resource_id": 31,
+        "text": "C’est à Nous, certes, de guider ;"
+      }
+    ]
+  },
+  {
+    "id": 6071,
+    "verse_number": 13,
+    "verse_key": "92:13",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168272,
+        "resource_id": 31,
+        "text": "à Nous appartient, certes, la vie dernière et la vie présente."
+      }
+    ]
+  },
+  {
+    "id": 6072,
+    "verse_number": 14,
+    "verse_key": "92:14",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 595,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168273,
+        "resource_id": 31,
+        "text": "Je vous ai donc avertis d’un Feu qui flambe."
+      }
+    ]
+  },
+  {
+    "id": 6073,
+    "verse_number": 15,
+    "verse_key": "92:15",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168274,
+        "resource_id": 31,
+        "text": "où ne brûlera que le damné,"
+      }
+    ]
+  },
+  {
+    "id": 6074,
+    "verse_number": 16,
+    "verse_key": "92:16",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168278,
+        "resource_id": 31,
+        "text": "qui dément et tourne le dos ;"
+      }
+    ]
+  },
+  {
+    "id": 6075,
+    "verse_number": 17,
+    "verse_key": "92:17",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168275,
+        "resource_id": 31,
+        "text": "alors qu’en sera écarté le pieux,"
+      }
+    ]
+  },
+  {
+    "id": 6076,
+    "verse_number": 18,
+    "verse_key": "92:18",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168276,
+        "resource_id": 31,
+        "text": "qui donne ses biens pour se purifier."
+      }
+    ]
+  },
+  {
+    "id": 6077,
+    "verse_number": 19,
+    "verse_key": "92:19",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168277,
+        "resource_id": 31,
+        "text": "et auprès de qui personne ne profite d’un bienfait intéressé,"
+      }
+    ]
+  },
+  {
+    "id": 6078,
+    "verse_number": 20,
+    "verse_key": "92:20",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168281,
+        "resource_id": 31,
+        "text": "mais seulement pour la recherche de La Face de son seigneur le Très- Haut <sup foot_note=233101>1</sup>."
+      }
+    ]
+  },
+  {
+    "id": 6079,
+    "verse_number": 21,
+    "verse_key": "92:21",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 536,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168282,
+        "resource_id": 31,
+        "text": "Et certes, il sera bientôt satisfait !"
+      }
+    ]
+  }
+]

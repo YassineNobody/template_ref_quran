@@ -1,0 +1,78 @@
+[
+  {
+    "id": 6222,
+    "verse_number": 1,
+    "verse_key": "112:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 556,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 604,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 169146,
+        "resource_id": 31,
+        "text": "Dis : \"Il est Allah, Unique."
+      }
+    ]
+  },
+  {
+    "id": 6223,
+    "verse_number": 2,
+    "verse_key": "112:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 556,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 604,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 169150,
+        "resource_id": 31,
+        "text": "Allah, Le Seul à être imploré pour ce que nous désirons."
+      }
+    ]
+  },
+  {
+    "id": 6224,
+    "verse_number": 3,
+    "verse_key": "112:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 556,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 604,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168863,
+        "resource_id": 31,
+        "text": "Il n’a jamais engendré, n’a pas été engendré non plus."
+      }
+    ]
+  },
+  {
+    "id": 6225,
+    "verse_number": 4,
+    "verse_key": "112:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 556,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 604,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 169153,
+        "resource_id": 31,
+        "text": "Et nul n’est égal à Lui.\""
+      }
+    ]
+  }
+]

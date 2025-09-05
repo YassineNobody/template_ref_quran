@@ -1,0 +1,18 @@
+{
+  "id": 66,
+  "revelation_place": "madinah",
+  "revelation_order": 107,
+  "bismillah_pre": true,
+  "name_simple": "At-Tahrim",
+  "name_complex": "At-Taĥrīm",
+  "name_arabic": "التحريم",
+  "verses_count": 12,
+  "pages": [
+    560,
+    561
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "L'interdiction"
+  }
+}

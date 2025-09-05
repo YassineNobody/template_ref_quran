@@ -1,0 +1,990 @@
+[
+  {
+    "id": 5272,
+    "verse_number": 1,
+    "verse_key": "68:1",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 168485,
+        "resource_id": 31,
+        "text": "Noun . Par la plume et ce qu’ils écrivent ! <sup foot_note=232947>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 5273,
+    "verse_number": 2,
+    "verse_key": "68:2",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167207,
+        "resource_id": 31,
+        "text": "Tu (Mohammed) n’est pas, par la grâce de ton Seigneur, un possédé."
+      }
+    ]
+  },
+  {
+    "id": 5274,
+    "verse_number": 3,
+    "verse_key": "68:3",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167215,
+        "resource_id": 31,
+        "text": "Et il y aura pour toi certes, une récompense jamais interrompue."
+      }
+    ]
+  },
+  {
+    "id": 5275,
+    "verse_number": 4,
+    "verse_key": "68:4",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167228,
+        "resource_id": 31,
+        "text": "Et tu es certes, d’une moralité éminente."
+      }
+    ]
+  },
+  {
+    "id": 5276,
+    "verse_number": 5,
+    "verse_key": "68:5",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167252,
+        "resource_id": 31,
+        "text": "Tu verras et ils verront."
+      }
+    ]
+  },
+  {
+    "id": 5277,
+    "verse_number": 6,
+    "verse_key": "68:6",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167243,
+        "resource_id": 31,
+        "text": "qui d’entre vous a perdu la raison."
+      }
+    ]
+  },
+  {
+    "id": 5278,
+    "verse_number": 7,
+    "verse_key": "68:7",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167244,
+        "resource_id": 31,
+        "text": "C’est ton Seigneur qui connaît mieux ceux qui s’égarent de Son chemin, et il connaît mieux ceux qui suivent la bonne voie."
+      }
+    ]
+  },
+  {
+    "id": 5279,
+    "verse_number": 8,
+    "verse_key": "68:8",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167246,
+        "resource_id": 31,
+        "text": "N’obéis pas à ceux qui crient en mensonge,"
+      }
+    ]
+  },
+  {
+    "id": 5280,
+    "verse_number": 9,
+    "verse_key": "68:9",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167248,
+        "resource_id": 31,
+        "text": "Ils aimeraient bien que tu transiges avec eux afin qu’ils transigent avec toi."
+      }
+    ]
+  },
+  {
+    "id": 5281,
+    "verse_number": 10,
+    "verse_key": "68:10",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167193,
+        "resource_id": 31,
+        "text": "Et n’obéis à aucun grand jureur, méprisable,"
+      }
+    ]
+  },
+  {
+    "id": 5282,
+    "verse_number": 11,
+    "verse_key": "68:11",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167401,
+        "resource_id": 31,
+        "text": "grand diffamateur, grand colporteur de médisance,"
+      }
+    ]
+  },
+  {
+    "id": 5283,
+    "verse_number": 12,
+    "verse_key": "68:12",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 166926,
+        "resource_id": 31,
+        "text": "grand empêcheur du bien, transgresseur, grand pécheur,"
+      }
+    ]
+  },
+  {
+    "id": 5284,
+    "verse_number": 13,
+    "verse_key": "68:13",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167194,
+        "resource_id": 31,
+        "text": "au cœur dur, et en plus de cela bâtard . <sup foot_note=232948>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 5285,
+    "verse_number": 14,
+    "verse_key": "68:14",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167195,
+        "resource_id": 31,
+        "text": "Même s’il est doté de richesses et (de nombreux) enfants."
+      }
+    ]
+  },
+  {
+    "id": 5286,
+    "verse_number": 15,
+    "verse_key": "68:15",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 564,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167196,
+        "resource_id": 31,
+        "text": "Quand Nos versets lui sont récités, il dit : \"Des contes d’anciens.\""
+      }
+    ]
+  },
+  {
+    "id": 5287,
+    "verse_number": 16,
+    "verse_key": "68:16",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167197,
+        "resource_id": 31,
+        "text": "Nous le marquerons sur le museau [nez]. <sup foot_note=232949>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 5288,
+    "verse_number": 17,
+    "verse_key": "68:17",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167198,
+        "resource_id": 31,
+        "text": "Nous les avons éprouvés comme Nous avons éprouvés les propriétaires du verger qui avaient juré d’en faire la récolte au matin,"
+      }
+    ]
+  },
+  {
+    "id": 5289,
+    "verse_number": 18,
+    "verse_key": "68:18",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167224,
+        "resource_id": 31,
+        "text": "sans dire : \"Si Allah le veut.\" <sup foot_note=232950>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 5290,
+    "verse_number": 19,
+    "verse_key": "68:19",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167200,
+        "resource_id": 31,
+        "text": "Une calamité de la part de ton Seigneur tomba dessus pendant qu’ils dormaient,"
+      }
+    ]
+  },
+  {
+    "id": 5291,
+    "verse_number": 20,
+    "verse_key": "68:20",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167201,
+        "resource_id": 31,
+        "text": "et le matin, ce fut comme si tout avait été rasé."
+      }
+    ]
+  },
+  {
+    "id": 5292,
+    "verse_number": 21,
+    "verse_key": "68:21",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167202,
+        "resource_id": 31,
+        "text": "Le [lendemain] matin, ils s’appelèrent les uns les autres :"
+      }
+    ]
+  },
+  {
+    "id": 5293,
+    "verse_number": 22,
+    "verse_key": "68:22",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167203,
+        "resource_id": 31,
+        "text": "\"Partez tôt à votre champ si vous voulez le récolter.\""
+      }
+    ]
+  },
+  {
+    "id": 5294,
+    "verse_number": 23,
+    "verse_key": "68:23",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167204,
+        "resource_id": 31,
+        "text": "Ils allèrent donc, tout en parlant entre eux à voix basse :"
+      }
+    ]
+  },
+  {
+    "id": 5295,
+    "verse_number": 24,
+    "verse_key": "68:24",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167205,
+        "resource_id": 31,
+        "text": "\"Ne laissez aucun pauvre y entrer aujourd’hui.\""
+      }
+    ]
+  },
+  {
+    "id": 5296,
+    "verse_number": 25,
+    "verse_key": "68:25",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167206,
+        "resource_id": 31,
+        "text": "Ils partirent de bonne heure décidés à user d’avarice [envers les pauvres], convaincus que cela était en leur pouvoir."
+      }
+    ]
+  },
+  {
+    "id": 5297,
+    "verse_number": 26,
+    "verse_key": "68:26",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167209,
+        "resource_id": 31,
+        "text": "Puis, quand ils le virent [le jardin], ils dirent : \"vraiment, nous avons perdus notre chemin,"
+      }
+    ]
+  },
+  {
+    "id": 5298,
+    "verse_number": 27,
+    "verse_key": "68:27",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 169211,
+        "resource_id": 31,
+        "text": "Ou plutôt nous somme frustrés.\""
+      }
+    ]
+  },
+  {
+    "id": 5299,
+    "verse_number": 28,
+    "verse_key": "68:28",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167208,
+        "resource_id": 31,
+        "text": "Le plus juste d’entre eux dit : \"Ne vous avais-je pas dit : Si seulement vous aviez rendu gloire à Allah !\""
+      }
+    ]
+  },
+  {
+    "id": 5300,
+    "verse_number": 29,
+    "verse_key": "68:29",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167211,
+        "resource_id": 31,
+        "text": "Ils dirent : \"Gloire à notre Seigneur ! Oui, nous avons été injustes.\""
+      }
+    ]
+  },
+  {
+    "id": 5301,
+    "verse_number": 30,
+    "verse_key": "68:30",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167212,
+        "resource_id": 31,
+        "text": "Puis ils s’adressèrent les uns aux autres, se faisant des reproches."
+      }
+    ]
+  },
+  {
+    "id": 5302,
+    "verse_number": 31,
+    "verse_key": "68:31",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167213,
+        "resource_id": 31,
+        "text": "Ils dirent : \"Malheur à nous ! Nous avons été des rebelles."
+      }
+    ]
+  },
+  {
+    "id": 5303,
+    "verse_number": 32,
+    "verse_key": "68:32",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167214,
+        "resource_id": 31,
+        "text": "Nous souhaitons que notre Seigneur nous le remplace par quelque chose de meilleur. Nous désirons nous rapprocher de notre Seigneur.\""
+      }
+    ]
+  },
+  {
+    "id": 5304,
+    "verse_number": 33,
+    "verse_key": "68:33",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 500,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167216,
+        "resource_id": 31,
+        "text": "Tel fut le châtiment ; et le châtiment de l’au-delà est plus grand encore, si seulement ils savaient !"
+      }
+    ]
+  },
+  {
+    "id": 5305,
+    "verse_number": 34,
+    "verse_key": "68:34",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167217,
+        "resource_id": 31,
+        "text": "Les pieux auront auprès de leur Seigneur les jardins de délice."
+      }
+    ]
+  },
+  {
+    "id": 5306,
+    "verse_number": 35,
+    "verse_key": "68:35",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167222,
+        "resource_id": 31,
+        "text": "Traiterons-Nous les soumis [à Allah] à la manière des criminels ?"
+      }
+    ]
+  },
+  {
+    "id": 5307,
+    "verse_number": 36,
+    "verse_key": "68:36",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167218,
+        "resource_id": 31,
+        "text": "Qu’avez-vous? Comment jugez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 5308,
+    "verse_number": 37,
+    "verse_key": "68:37",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167219,
+        "resource_id": 31,
+        "text": "Ou bien avez-vous un Livre dans lequel vous apprenez."
+      }
+    ]
+  },
+  {
+    "id": 5309,
+    "verse_number": 38,
+    "verse_key": "68:38",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167220,
+        "resource_id": 31,
+        "text": "qu’en vérité vous obtiendrez tout ce que vous désirez ?"
+      }
+    ]
+  },
+  {
+    "id": 5310,
+    "verse_number": 39,
+    "verse_key": "68:39",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167221,
+        "resource_id": 31,
+        "text": "Ou bien est-ce que vous avez obtenu de Nous des serments valables jusqu’au Jour de la Résurrection, Nous engageant à vous donner ce que vous décidez ?"
+      }
+    ]
+  },
+  {
+    "id": 5311,
+    "verse_number": 40,
+    "verse_key": "68:40",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167226,
+        "resource_id": 31,
+        "text": "Demande-leur qui d’entre eux en est garant ?"
+      }
+    ]
+  },
+  {
+    "id": 5312,
+    "verse_number": 41,
+    "verse_key": "68:41",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167225,
+        "resource_id": 31,
+        "text": "Ou encore, est-ce qu’ils ont des associés ? Eh bien, qu’ils fassent venir leur associés s’ils sont véridiques !"
+      }
+    ]
+  },
+  {
+    "id": 5313,
+    "verse_number": 42,
+    "verse_key": "68:42",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 565,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167227,
+        "resource_id": 31,
+        "text": "Le jour où ils affronteront les horreurs [du Jugement]  et où ils seront appelés à la Prosternation mais ils ne le pourront pas. <sup foot_note=232955>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 5314,
+    "verse_number": 43,
+    "verse_key": "68:43",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167229,
+        "resource_id": 31,
+        "text": "Leurs regards seront abaissés, et l’avilissement les couvrira. Or, ils étaient appelés à la Prosternation au temps où ils étaient sains et saufs !..."
+      }
+    ]
+  },
+  {
+    "id": 5315,
+    "verse_number": 44,
+    "verse_key": "68:44",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167230,
+        "resource_id": 31,
+        "text": "Laisse-Moi donc avec quiconque traite de mensonge ce discours; Nous allons les mener graduellement par où ils ne savent pas !"
+      }
+    ]
+  },
+  {
+    "id": 5316,
+    "verse_number": 45,
+    "verse_key": "68:45",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167231,
+        "resource_id": 31,
+        "text": "Et Je leur accorde un délai, car Mon stratagème est sûr !"
+      }
+    ]
+  },
+  {
+    "id": 5317,
+    "verse_number": 46,
+    "verse_key": "68:46",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167234,
+        "resource_id": 31,
+        "text": "Ou bien est-ce que tu leur demandes un salaire, les accablant ainsi d’une lourde dette ?"
+      }
+    ]
+  },
+  {
+    "id": 5318,
+    "verse_number": 47,
+    "verse_key": "68:47",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167232,
+        "resource_id": 31,
+        "text": "Ou savent-ils l’Inconnaissable et c’est de là qu’ils écrivent [leurs mensonges] ?"
+      }
+    ]
+  },
+  {
+    "id": 5319,
+    "verse_number": 48,
+    "verse_key": "68:48",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167233,
+        "resource_id": 31,
+        "text": "Endure avec patience la sentence de ton Seigneur, et ne soit pas comme l’homme au Poisson (Jonas) qui appela (Allah) dans sa grande angoisse."
+      }
+    ]
+  },
+  {
+    "id": 5320,
+    "verse_number": 49,
+    "verse_key": "68:49",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167235,
+        "resource_id": 31,
+        "text": "Si un bienfait de son Seigneur ne l’avait pas atteint, il aurait été rejeté honni sur une terre déserte,"
+      }
+    ]
+  },
+  {
+    "id": 5321,
+    "verse_number": 50,
+    "verse_key": "68:50",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167238,
+        "resource_id": 31,
+        "text": "Puis son Seigneur l’élut et le désigna au nombre des gens de bien."
+      }
+    ]
+  },
+  {
+    "id": 5322,
+    "verse_number": 51,
+    "verse_key": "68:51",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167237,
+        "resource_id": 31,
+        "text": "Peu s’en faut que ceux qui mécroient ne te transpercent par leurs regards, quand ils entendent le Coran, ils disent : \"Il est certes fou !\""
+      }
+    ]
+  },
+  {
+    "id": 5323,
+    "verse_number": 52,
+    "verse_key": "68:52",
+    "hizb_number": 57,
+    "rub_el_hizb_number": 226,
+    "ruku_number": 501,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 566,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167240,
+        "resource_id": 31,
+        "text": "Et ce n’est qu’un Rappel, adressé aux mondes !"
+      }
+    ]
+  }
+]

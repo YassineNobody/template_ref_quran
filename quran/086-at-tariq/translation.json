@@ -1,0 +1,325 @@
+[
+  {
+    "id": 5932,
+    "verse_number": 1,
+    "verse_key": "86:1",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168084,
+        "resource_id": 31,
+        "text": "Par le ciel et par l’astre nocturne."
+      }
+    ]
+  },
+  {
+    "id": 5933,
+    "verse_number": 2,
+    "verse_key": "86:2",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168095,
+        "resource_id": 31,
+        "text": "Et qui te dira ce qu’est l’astre nocturne?"
+      }
+    ]
+  },
+  {
+    "id": 5934,
+    "verse_number": 3,
+    "verse_key": "86:3",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168099,
+        "resource_id": 31,
+        "text": "C’est l’étoile vivement brillante."
+      }
+    ]
+  },
+  {
+    "id": 5935,
+    "verse_number": 4,
+    "verse_key": "86:4",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168097,
+        "resource_id": 31,
+        "text": "Il n’est pas d’âme qui n’ait sur elle un gardien."
+      }
+    ]
+  },
+  {
+    "id": 5936,
+    "verse_number": 5,
+    "verse_key": "86:5",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168101,
+        "resource_id": 31,
+        "text": "Que l’homme considère donc de quoi il a été créé."
+      }
+    ]
+  },
+  {
+    "id": 5937,
+    "verse_number": 6,
+    "verse_key": "86:6",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168103,
+        "resource_id": 31,
+        "text": "Il a été créé d’une giclée d’eau."
+      }
+    ]
+  },
+  {
+    "id": 5938,
+    "verse_number": 7,
+    "verse_key": "86:7",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168105,
+        "resource_id": 31,
+        "text": "sortie d’entre les lombes et les côtes."
+      }
+    ]
+  },
+  {
+    "id": 5939,
+    "verse_number": 8,
+    "verse_key": "86:8",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168107,
+        "resource_id": 31,
+        "text": "Allah est certes capable de le ressusciter."
+      }
+    ]
+  },
+  {
+    "id": 5940,
+    "verse_number": 9,
+    "verse_key": "86:9",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168109,
+        "resource_id": 31,
+        "text": "Le jour où les cœurs dévoileront leurs secrets,"
+      }
+    ]
+  },
+  {
+    "id": 5941,
+    "verse_number": 10,
+    "verse_key": "86:10",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168085,
+        "resource_id": 31,
+        "text": "Il n’aura alors ni force ni secoureur."
+      }
+    ]
+  },
+  {
+    "id": 5942,
+    "verse_number": 11,
+    "verse_key": "86:11",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168087,
+        "resource_id": 31,
+        "text": "Par le ciel qui fait revenir la pluie !"
+      }
+    ]
+  },
+  {
+    "id": 5943,
+    "verse_number": 12,
+    "verse_key": "86:12",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168209,
+        "resource_id": 31,
+        "text": "et par la terre qui se fend <sup foot_note=233081>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 5944,
+    "verse_number": 13,
+    "verse_key": "86:13",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168093,
+        "resource_id": 31,
+        "text": "Ceci [le Coran] est certes, une parole décisive [qui tranche entre le vrai et le faux],"
+      }
+    ]
+  },
+  {
+    "id": 5945,
+    "verse_number": 14,
+    "verse_key": "86:14",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168088,
+        "resource_id": 31,
+        "text": "et non point une plaisanterie frivole !"
+      }
+    ]
+  },
+  {
+    "id": 5946,
+    "verse_number": 15,
+    "verse_key": "86:15",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168089,
+        "resource_id": 31,
+        "text": "Ils se servent d’une ruse,"
+      }
+    ]
+  },
+  {
+    "id": 5947,
+    "verse_number": 16,
+    "verse_key": "86:16",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168090,
+        "resource_id": 31,
+        "text": "et Moi aussi Je me sers de Mon plan."
+      }
+    ]
+  },
+  {
+    "id": 5948,
+    "verse_number": 17,
+    "verse_key": "86:17",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 530,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 591,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168091,
+        "resource_id": 31,
+        "text": "Accorde (ô Prophète) donc un délai aux infidèles: accorde-leur un court délai."
+      }
+    ]
+  }
+]

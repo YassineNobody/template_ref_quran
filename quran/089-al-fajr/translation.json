@@ -1,0 +1,572 @@
+[
+  {
+    "id": 5994,
+    "verse_number": 1,
+    "verse_key": "89:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165071,
+        "resource_id": 31,
+        "text": "Par l’Aube !"
+      }
+    ]
+  },
+  {
+    "id": 5995,
+    "verse_number": 2,
+    "verse_key": "89:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165030,
+        "resource_id": 31,
+        "text": "et par les dix nuits <sup foot_note=233084>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 5996,
+    "verse_number": 3,
+    "verse_key": "89:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168181,
+        "resource_id": 31,
+        "text": "Par le pair et l’impair !"
+      }
+    ]
+  },
+  {
+    "id": 5997,
+    "verse_number": 4,
+    "verse_key": "89:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168183,
+        "resource_id": 31,
+        "text": "Et par la nuit quand elle s’écoule !"
+      }
+    ]
+  },
+  {
+    "id": 5998,
+    "verse_number": 5,
+    "verse_key": "89:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168184,
+        "resource_id": 31,
+        "text": "N’est-ce pas là un serment, pour un doué d’intelligence ?"
+      }
+    ]
+  },
+  {
+    "id": 5999,
+    "verse_number": 6,
+    "verse_key": "89:6",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168185,
+        "resource_id": 31,
+        "text": "N’as-tu pas vu comment ton Seigneur a agi avec les 'Âd."
+      }
+    ]
+  },
+  {
+    "id": 6000,
+    "verse_number": 7,
+    "verse_key": "89:7",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168186,
+        "resource_id": 31,
+        "text": "[avec] Iram <sup foot_note=233086>1</sup>, [la cité] à la colonne remarquable,"
+      }
+    ]
+  },
+  {
+    "id": 6001,
+    "verse_number": 8,
+    "verse_key": "89:8",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168187,
+        "resource_id": 31,
+        "text": "dont jamais pareille ne fut construite parmi les villes ?"
+      }
+    ]
+  },
+  {
+    "id": 6002,
+    "verse_number": 9,
+    "verse_key": "89:9",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168188,
+        "resource_id": 31,
+        "text": "et avec les Thamûd qui taillaient le rocher dans la vallée ?"
+      }
+    ]
+  },
+  {
+    "id": 6003,
+    "verse_number": 10,
+    "verse_key": "89:10",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168169,
+        "resource_id": 31,
+        "text": "ainsi qu’avec Pharaon, l’homme aux épieux ?"
+      }
+    ]
+  },
+  {
+    "id": 6004,
+    "verse_number": 11,
+    "verse_key": "89:11",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168164,
+        "resource_id": 31,
+        "text": "Tous, étaient des gens qui transgressaient dans [leurs] pays,"
+      }
+    ]
+  },
+  {
+    "id": 6005,
+    "verse_number": 12,
+    "verse_key": "89:12",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168165,
+        "resource_id": 31,
+        "text": "et y avaient commis beaucoup de désordre."
+      }
+    ]
+  },
+  {
+    "id": 6006,
+    "verse_number": 13,
+    "verse_key": "89:13",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168166,
+        "resource_id": 31,
+        "text": "Donc, ton Seigneur déversa sur eux un fouet du châtiment."
+      }
+    ]
+  },
+  {
+    "id": 6007,
+    "verse_number": 14,
+    "verse_key": "89:14",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168167,
+        "resource_id": 31,
+        "text": "Car ton Seigneur demeure aux aguets."
+      }
+    ]
+  },
+  {
+    "id": 6008,
+    "verse_number": 15,
+    "verse_key": "89:15",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168168,
+        "resource_id": 31,
+        "text": "Quant à l’homme, lorsque son Seigneur l’éprouve en l’honorant <sup foot_note=233087>1</sup> et en le comblant de bienfaits, il dit : \"Mon Seigneur m’a honoré.\""
+      }
+    ]
+  },
+  {
+    "id": 6009,
+    "verse_number": 16,
+    "verse_key": "89:16",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168170,
+        "resource_id": 31,
+        "text": "Mais par contre, quand Il l’éprouve en lui restreignant sa subsistance, il dit : \"Mon Seigneur m’a avili.\""
+      }
+    ]
+  },
+  {
+    "id": 6010,
+    "verse_number": 17,
+    "verse_key": "89:17",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168171,
+        "resource_id": 31,
+        "text": "Mais non ! C’est vous plutôt, qui n’êtes pas généreux envers les orphelins ;"
+      }
+    ]
+  },
+  {
+    "id": 6011,
+    "verse_number": 18,
+    "verse_key": "89:18",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165028,
+        "resource_id": 31,
+        "text": "qui ne vous incitez pas mutuellement à nourrir le pauvre,"
+      }
+    ]
+  },
+  {
+    "id": 6012,
+    "verse_number": 19,
+    "verse_key": "89:19",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 164837,
+        "resource_id": 31,
+        "text": "qui dévorez l’héritage avec une avidité vorace,"
+      }
+    ]
+  },
+  {
+    "id": 6013,
+    "verse_number": 20,
+    "verse_key": "89:20",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168175,
+        "resource_id": 31,
+        "text": "et aimez les richesses d’un amour sans bornes."
+      }
+    ]
+  },
+  {
+    "id": 6014,
+    "verse_number": 21,
+    "verse_key": "89:21",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168172,
+        "resource_id": 31,
+        "text": "Prenez garde ! Quand la terre sera complètement pulvérisée,"
+      }
+    ]
+  },
+  {
+    "id": 6015,
+    "verse_number": 22,
+    "verse_key": "89:22",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168173,
+        "resource_id": 31,
+        "text": "et que ton Seigneur viendra ainsi que les Anges, rang par rang,"
+      }
+    ]
+  },
+  {
+    "id": 6016,
+    "verse_number": 23,
+    "verse_key": "89:23",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 593,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168174,
+        "resource_id": 31,
+        "text": "et que ce jour-là, on amènera l’Enfer ; ce jour-là, l’homme se rappellera. Mais à quoi lui servira de se souvenir ?"
+      }
+    ]
+  },
+  {
+    "id": 6017,
+    "verse_number": 24,
+    "verse_key": "89:24",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168197,
+        "resource_id": 31,
+        "text": "Il dira : \"Hélas ! Que n’ai-je fais du bien pour ma vie future !"
+      }
+    ]
+  },
+  {
+    "id": 6018,
+    "verse_number": 25,
+    "verse_key": "89:25",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168176,
+        "resource_id": 31,
+        "text": "Ce jour-là donc, nul ne saura châtier comme Lui châtie,"
+      }
+    ]
+  },
+  {
+    "id": 6019,
+    "verse_number": 26,
+    "verse_key": "89:26",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168177,
+        "resource_id": 31,
+        "text": "et nul ne saura garrotter comme Lui garrotte."
+      }
+    ]
+  },
+  {
+    "id": 6020,
+    "verse_number": 27,
+    "verse_key": "89:27",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168178,
+        "resource_id": 31,
+        "text": "\"ô toi, âme apaisée,"
+      }
+    ]
+  },
+  {
+    "id": 6021,
+    "verse_number": 28,
+    "verse_key": "89:28",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168179,
+        "resource_id": 31,
+        "text": "retourne vers ton Seigneur, satisfaite et agréée ;"
+      }
+    ]
+  },
+  {
+    "id": 6022,
+    "verse_number": 29,
+    "verse_key": "89:29",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168180,
+        "resource_id": 31,
+        "text": "entre donc parmi Mes serviteurs,"
+      }
+    ]
+  },
+  {
+    "id": 6023,
+    "verse_number": 30,
+    "verse_key": "89:30",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 237,
+    "ruku_number": 533,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 594,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168182,
+        "resource_id": 31,
+        "text": "et entre dans Mon Paradis.\""
+      }
+    ]
+  }
+]

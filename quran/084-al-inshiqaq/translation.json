@@ -1,0 +1,477 @@
+[
+  {
+    "id": 5885,
+    "verse_number": 1,
+    "verse_key": "84:1",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168037,
+        "resource_id": 31,
+        "text": "Quand le ciel se déchirera."
+      }
+    ]
+  },
+  {
+    "id": 5886,
+    "verse_number": 2,
+    "verse_key": "84:2",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168035,
+        "resource_id": 31,
+        "text": "et obéira à son Seigneur - et fera ce qu’il doit faire -"
+      }
+    ]
+  },
+  {
+    "id": 5887,
+    "verse_number": 3,
+    "verse_key": "84:3",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168039,
+        "resource_id": 31,
+        "text": "et que la terre sera nivelée,"
+      }
+    ]
+  },
+  {
+    "id": 5888,
+    "verse_number": 4,
+    "verse_key": "84:4",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168041,
+        "resource_id": 31,
+        "text": "et qu’elle rejettera ce qui est en son sein (les morts) et se videra,"
+      }
+    ]
+  },
+  {
+    "id": 5889,
+    "verse_number": 5,
+    "verse_key": "84:5",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168043,
+        "resource_id": 31,
+        "text": "et qu’elle obéira à son Seigneur - et fera ce qu’elle doit faire -"
+      }
+    ]
+  },
+  {
+    "id": 5890,
+    "verse_number": 6,
+    "verse_key": "84:6",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168045,
+        "resource_id": 31,
+        "text": "Ô homme ! Toi qui t’efforces vers ton Seigneur sans relâche, tu Le rencontreras alors."
+      }
+    ]
+  },
+  {
+    "id": 5891,
+    "verse_number": 7,
+    "verse_key": "84:7",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168047,
+        "resource_id": 31,
+        "text": "Celui qui recevra son livre en sa main droite,"
+      }
+    ]
+  },
+  {
+    "id": 5892,
+    "verse_number": 8,
+    "verse_key": "84:8",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168049,
+        "resource_id": 31,
+        "text": "sera soumis à un jugement facile,"
+      }
+    ]
+  },
+  {
+    "id": 5893,
+    "verse_number": 9,
+    "verse_key": "84:9",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168051,
+        "resource_id": 31,
+        "text": "et retournera réjoui auprès de sa famille."
+      }
+    ]
+  },
+  {
+    "id": 5894,
+    "verse_number": 10,
+    "verse_key": "84:10",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168028,
+        "resource_id": 31,
+        "text": "Quant à celui qui recevra son livre derrière son dos,"
+      }
+    ]
+  },
+  {
+    "id": 5895,
+    "verse_number": 11,
+    "verse_key": "84:11",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168018,
+        "resource_id": 31,
+        "text": "il invoquera la destruction sur lui-même,"
+      }
+    ]
+  },
+  {
+    "id": 5896,
+    "verse_number": 12,
+    "verse_key": "84:12",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168019,
+        "resource_id": 31,
+        "text": "et il brûlera dans un feu ardent."
+      }
+    ]
+  },
+  {
+    "id": 5897,
+    "verse_number": 13,
+    "verse_key": "84:13",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168020,
+        "resource_id": 31,
+        "text": "Car il était tout joyeux parmi les siens,"
+      }
+    ]
+  },
+  {
+    "id": 5898,
+    "verse_number": 14,
+    "verse_key": "84:14",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168021,
+        "resource_id": 31,
+        "text": "et il pensait que jamais il ne ressusciterait."
+      }
+    ]
+  },
+  {
+    "id": 5899,
+    "verse_number": 15,
+    "verse_key": "84:15",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168022,
+        "resource_id": 31,
+        "text": "Mais si ! Certes, son Seigneur l’observait parfaitement."
+      }
+    ]
+  },
+  {
+    "id": 5900,
+    "verse_number": 16,
+    "verse_key": "84:16",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168023,
+        "resource_id": 31,
+        "text": "Non !... Je jure par le crépuscule,"
+      }
+    ]
+  },
+  {
+    "id": 5901,
+    "verse_number": 17,
+    "verse_key": "84:17",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168024,
+        "resource_id": 31,
+        "text": "et par la nuit et ce qu’elle enveloppe,"
+      }
+    ]
+  },
+  {
+    "id": 5902,
+    "verse_number": 18,
+    "verse_key": "84:18",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168025,
+        "resource_id": 31,
+        "text": "et par la lune quand elle devient pleine-lune !"
+      }
+    ]
+  },
+  {
+    "id": 5903,
+    "verse_number": 19,
+    "verse_key": "84:19",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168026,
+        "resource_id": 31,
+        "text": "Vous passerez, certes, par des états successifs !"
+      }
+    ]
+  },
+  {
+    "id": 5904,
+    "verse_number": 20,
+    "verse_key": "84:20",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168029,
+        "resource_id": 31,
+        "text": "Qu’ont-ils à ne pas croire ?"
+      }
+    ]
+  },
+  {
+    "id": 5905,
+    "verse_number": 21,
+    "verse_key": "84:21",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": 13,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168030,
+        "resource_id": 31,
+        "text": "et à ne pas se prosterner quand le Coran leur est lu <sup foot_note=233075>1</sup> ?"
+      }
+    ]
+  },
+  {
+    "id": 5906,
+    "verse_number": 22,
+    "verse_key": "84:22",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168031,
+        "resource_id": 31,
+        "text": "Mais ceux qui ne croient pas, le traitent plutôt de mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5907,
+    "verse_number": 23,
+    "verse_key": "84:23",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168032,
+        "resource_id": 31,
+        "text": "Or, Allah sait bien ce qu’ils dissimulent."
+      }
+    ]
+  },
+  {
+    "id": 5908,
+    "verse_number": 24,
+    "verse_key": "84:24",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168033,
+        "resource_id": 31,
+        "text": "Annonce-leur donc un châtiment douloureux."
+      }
+    ]
+  },
+  {
+    "id": 5909,
+    "verse_number": 25,
+    "verse_key": "84:25",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 236,
+    "ruku_number": 528,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 589,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168034,
+        "resource_id": 31,
+        "text": "Sauf ceux qui croient et accomplissent les bonnes œuvres: à eux une récompense jamais interrompue."
+      }
+    ]
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "id": 6080,
+    "verse_number": 1,
+    "verse_key": "93:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168481,
+        "resource_id": 31,
+        "text": "Par le Jour Montant !"
+      }
+    ]
+  },
+  {
+    "id": 6081,
+    "verse_number": 2,
+    "verse_key": "93:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168302,
+        "resource_id": 31,
+        "text": "Et par la nuit quand elle couvre tout !"
+      }
+    ]
+  },
+  {
+    "id": 6082,
+    "verse_number": 3,
+    "verse_key": "93:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168305,
+        "resource_id": 31,
+        "text": "Ton Seigneur ne t’a ni abandonné, ni détesté."
+      }
+    ]
+  },
+  {
+    "id": 6083,
+    "verse_number": 4,
+    "verse_key": "93:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168309,
+        "resource_id": 31,
+        "text": "La vie dernière t’est, certes, meilleure que la vie présente."
+      }
+    ]
+  },
+  {
+    "id": 6084,
+    "verse_number": 5,
+    "verse_key": "93:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168311,
+        "resource_id": 31,
+        "text": "Ton Seigneur t’accordera certes [Ses faveurs], et alors tu seras satisfait."
+      }
+    ]
+  },
+  {
+    "id": 6085,
+    "verse_number": 6,
+    "verse_key": "93:6",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168313,
+        "resource_id": 31,
+        "text": "Ne t’a-t-Il pas trouvé orphelin ? Alors Il t’a accueilli !"
+      }
+    ]
+  },
+  {
+    "id": 6086,
+    "verse_number": 7,
+    "verse_key": "93:7",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165034,
+        "resource_id": 31,
+        "text": "Ne t’a-t-Il pas trouvé égaré ? Alors Il t’a guidé."
+      }
+    ]
+  },
+  {
+    "id": 6087,
+    "verse_number": 8,
+    "verse_key": "93:8",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165036,
+        "resource_id": 31,
+        "text": "Ne t’a-t-Il pas trouvé pauvre ? Alors Il t’a enrichi."
+      }
+    ]
+  },
+  {
+    "id": 6088,
+    "verse_number": 9,
+    "verse_key": "93:9",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168317,
+        "resource_id": 31,
+        "text": "Quant à l’orphelin, donc, ne le maltraite pas."
+      }
+    ]
+  },
+  {
+    "id": 6089,
+    "verse_number": 10,
+    "verse_key": "93:10",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168319,
+        "resource_id": 31,
+        "text": "Quant au demandeur <sup foot_note=233102>1</sup>, ne le repousse pas."
+      }
+    ]
+  },
+  {
+    "id": 6090,
+    "verse_number": 11,
+    "verse_key": "93:11",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 238,
+    "ruku_number": 537,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 596,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168307,
+        "resource_id": 31,
+        "text": "Et quant au bienfait de ton Seigneur, proclame-le."
+      }
+    ]
+  }
+]

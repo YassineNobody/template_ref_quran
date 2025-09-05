@@ -1,0 +1,18 @@
+{
+  "id": 64,
+  "revelation_place": "madinah",
+  "revelation_order": 108,
+  "bismillah_pre": true,
+  "name_simple": "At-Taghabun",
+  "name_complex": "At-Taghābun",
+  "name_arabic": "التغابن",
+  "verses_count": 18,
+  "pages": [
+    556,
+    557
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "La grande perte"
+  }
+}

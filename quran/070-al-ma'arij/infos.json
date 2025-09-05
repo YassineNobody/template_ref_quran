@@ -1,0 +1,18 @@
+{
+  "id": 70,
+  "revelation_place": "makkah",
+  "revelation_order": 79,
+  "bismillah_pre": true,
+  "name_simple": "Al-Ma'arij",
+  "name_complex": "Al-Ma`ārij",
+  "name_arabic": "المعارج",
+  "verses_count": 44,
+  "pages": [
+    568,
+    570
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "Les voies d'ascension"
+  }
+}

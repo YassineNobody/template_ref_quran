@@ -1,0 +1,18 @@
+{
+  "id": 90,
+  "revelation_place": "makkah",
+  "revelation_order": 35,
+  "bismillah_pre": true,
+  "name_simple": "Al-Balad",
+  "name_complex": "Al-Balad",
+  "name_arabic": "البلد",
+  "verses_count": 20,
+  "pages": [
+    594,
+    594
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "La cité"
+  }
+}

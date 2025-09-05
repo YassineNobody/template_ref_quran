@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "revelation_place": "makkah",
+  "revelation_order": 50,
+  "bismillah_pre": true,
+  "name_simple": "Al-Isra",
+  "name_complex": "Al-'Isrā",
+  "name_arabic": "الإسراء",
+  "verses_count": 111,
+  "pages": [
+    282,
+    293
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "Le voyage nocturne"
+  }
+}

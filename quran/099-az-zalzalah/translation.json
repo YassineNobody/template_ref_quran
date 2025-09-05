@@ -1,0 +1,154 @@
+[
+  {
+    "id": 6139,
+    "verse_number": 1,
+    "verse_key": "99:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 543,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 599,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168421,
+        "resource_id": 31,
+        "text": "Quand la terre tremblera d’un violent tremblement,"
+      }
+    ]
+  },
+  {
+    "id": 6140,
+    "verse_number": 2,
+    "verse_key": "99:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 543,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 599,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165079,
+        "resource_id": 31,
+        "text": "et que la terre fera sortir ses fardeaux <sup foot_note=233114>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 6141,
+    "verse_number": 3,
+    "verse_key": "99:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 543,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 599,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168423,
+        "resource_id": 31,
+        "text": "et que l’homme dira : \"Qu’a-t-elle ?\""
+      }
+    ]
+  },
+  {
+    "id": 6142,
+    "verse_number": 4,
+    "verse_key": "99:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 543,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 599,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168425,
+        "resource_id": 31,
+        "text": "Ce jour-là, elle contera son histoire,"
+      }
+    ]
+  },
+  {
+    "id": 6143,
+    "verse_number": 5,
+    "verse_key": "99:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 543,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 599,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168427,
+        "resource_id": 31,
+        "text": "selon ce que ton Seigneur lui aura révélé [ordonné]."
+      }
+    ]
+  },
+  {
+    "id": 6144,
+    "verse_number": 6,
+    "verse_key": "99:6",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 543,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 599,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168428,
+        "resource_id": 31,
+        "text": "Ce jour-là, les gens sortiront séparément pour que leur soient montrées leurs œuvres."
+      }
+    ]
+  },
+  {
+    "id": 6145,
+    "verse_number": 7,
+    "verse_key": "99:7",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 543,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 599,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168430,
+        "resource_id": 31,
+        "text": "Quiconque fait un bien fût-ce du poids d’un atome, le verra,"
+      }
+    ]
+  },
+  {
+    "id": 6146,
+    "verse_number": 8,
+    "verse_key": "99:8",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 543,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 599,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168432,
+        "resource_id": 31,
+        "text": "et quiconque fait un mal fût-ce du poids d’un atome, le verra"
+      }
+    ]
+  }
+]

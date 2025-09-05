@@ -1,0 +1,18 @@
+{
+  "id": 88,
+  "revelation_place": "makkah",
+  "revelation_order": 68,
+  "bismillah_pre": true,
+  "name_simple": "Al-Ghashiyah",
+  "name_complex": "Al-Ghāshiyah",
+  "name_arabic": "الغاشية",
+  "verses_count": 26,
+  "pages": [
+    592,
+    592
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "L'enveloppante"
+  }
+}

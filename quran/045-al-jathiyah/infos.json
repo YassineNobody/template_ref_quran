@@ -1,0 +1,18 @@
+{
+  "id": 45,
+  "revelation_place": "makkah",
+  "revelation_order": 65,
+  "bismillah_pre": true,
+  "name_simple": "Al-Jathiyah",
+  "name_complex": "Al-Jāthiyah",
+  "name_arabic": "الجاثية",
+  "verses_count": 37,
+  "pages": [
+    499,
+    502
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "L'agenouillée"
+  }
+}

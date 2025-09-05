@@ -1,0 +1,553 @@
+[
+  {
+    "id": 5801,
+    "verse_number": 1,
+    "verse_key": "81:1",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168006,
+        "resource_id": 31,
+        "text": "Quand le soleil sera obscurci,"
+      }
+    ]
+  },
+  {
+    "id": 5802,
+    "verse_number": 2,
+    "verse_key": "81:2",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167931,
+        "resource_id": 31,
+        "text": "et que les étoiles deviendront ternes,"
+      }
+    ]
+  },
+  {
+    "id": 5803,
+    "verse_number": 3,
+    "verse_key": "81:3",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167935,
+        "resource_id": 31,
+        "text": "et les montagnes mises en marche,"
+      }
+    ]
+  },
+  {
+    "id": 5804,
+    "verse_number": 4,
+    "verse_key": "81:4",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167933,
+        "resource_id": 31,
+        "text": "et les chamelles à terme <sup foot_note=233064>1</sup>, négligées,"
+      }
+    ]
+  },
+  {
+    "id": 5805,
+    "verse_number": 5,
+    "verse_key": "81:5",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167937,
+        "resource_id": 31,
+        "text": "et les bêtes farouches, rassemblées,"
+      }
+    ]
+  },
+  {
+    "id": 5806,
+    "verse_number": 6,
+    "verse_key": "81:6",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167939,
+        "resource_id": 31,
+        "text": "et les mers allumées,"
+      }
+    ]
+  },
+  {
+    "id": 5807,
+    "verse_number": 7,
+    "verse_key": "81:7",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167943,
+        "resource_id": 31,
+        "text": "et les âmes accouplées<sup foot_note=233065>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 5808,
+    "verse_number": 8,
+    "verse_key": "81:8",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167941,
+        "resource_id": 31,
+        "text": "et qu’on demandera à la fillette enterrée vivante <sup foot_note=233066>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 5809,
+    "verse_number": 9,
+    "verse_key": "81:9",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167945,
+        "resource_id": 31,
+        "text": "pour quel péché elle a été tuée."
+      }
+    ]
+  },
+  {
+    "id": 5810,
+    "verse_number": 10,
+    "verse_key": "81:10",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167919,
+        "resource_id": 31,
+        "text": "Et quand les feuilles seront déployées <sup foot_note=233067>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 5811,
+    "verse_number": 11,
+    "verse_key": "81:11",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 164784,
+        "resource_id": 31,
+        "text": "et le ciel écorché <sup foot_note=233069>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 5812,
+    "verse_number": 12,
+    "verse_key": "81:12",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167912,
+        "resource_id": 31,
+        "text": "et la fournaise attisée,"
+      }
+    ]
+  },
+  {
+    "id": 5813,
+    "verse_number": 13,
+    "verse_key": "81:13",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167913,
+        "resource_id": 31,
+        "text": "et le Paradis rapproché,"
+      }
+    ]
+  },
+  {
+    "id": 5814,
+    "verse_number": 14,
+    "verse_key": "81:14",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167914,
+        "resource_id": 31,
+        "text": "chaque âme saura ce qu’elle a présenté."
+      }
+    ]
+  },
+  {
+    "id": 5815,
+    "verse_number": 15,
+    "verse_key": "81:15",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167295,
+        "resource_id": 31,
+        "text": "Non!... Je jure par les planètes qui gravitent,"
+      }
+    ]
+  },
+  {
+    "id": 5816,
+    "verse_number": 16,
+    "verse_key": "81:16",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167404,
+        "resource_id": 31,
+        "text": "qui courent et disparaissent,"
+      }
+    ]
+  },
+  {
+    "id": 5817,
+    "verse_number": 17,
+    "verse_key": "81:17",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167915,
+        "resource_id": 31,
+        "text": "par la nuit quand elle survient,"
+      }
+    ]
+  },
+  {
+    "id": 5818,
+    "verse_number": 18,
+    "verse_key": "81:18",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167916,
+        "resource_id": 31,
+        "text": "et par l’aube quand elle exhale son souffle."
+      }
+    ]
+  },
+  {
+    "id": 5819,
+    "verse_number": 19,
+    "verse_key": "81:19",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167917,
+        "resource_id": 31,
+        "text": "Ceci [le Coran] est la parole d’un noble Messager <sup foot_note=233070>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 5820,
+    "verse_number": 20,
+    "verse_key": "81:20",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167920,
+        "resource_id": 31,
+        "text": "doué d’une grande force, et ayant un rang élevé auprès du Maitre du Trône,"
+      }
+    ]
+  },
+  {
+    "id": 5821,
+    "verse_number": 21,
+    "verse_key": "81:21",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167921,
+        "resource_id": 31,
+        "text": "obéi, là-haut, et digne de confiance."
+      }
+    ]
+  },
+  {
+    "id": 5822,
+    "verse_number": 22,
+    "verse_key": "81:22",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167922,
+        "resource_id": 31,
+        "text": "Votre compagnon (Mohammed) n’est nullement fou."
+      }
+    ]
+  },
+  {
+    "id": 5823,
+    "verse_number": 23,
+    "verse_key": "81:23",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167923,
+        "resource_id": 31,
+        "text": "Il l’a effectivement vu (Gabriel), au clair horizon,"
+      }
+    ]
+  },
+  {
+    "id": 5824,
+    "verse_number": 24,
+    "verse_key": "81:24",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167924,
+        "resource_id": 31,
+        "text": "et il ne garde pas avarement pour lui-même ce qui lui a été révélé."
+      }
+    ]
+  },
+  {
+    "id": 5825,
+    "verse_number": 25,
+    "verse_key": "81:25",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167925,
+        "resource_id": 31,
+        "text": "Et ceci [le Coran] n’est point la parole d’un diable banni."
+      }
+    ]
+  },
+  {
+    "id": 5826,
+    "verse_number": 26,
+    "verse_key": "81:26",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167926,
+        "resource_id": 31,
+        "text": "Où allez-vous donc."
+      }
+    ]
+  },
+  {
+    "id": 5827,
+    "verse_number": 27,
+    "verse_key": "81:27",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167927,
+        "resource_id": 31,
+        "text": "Ceci n’est qu’un rappel pour l’univers,"
+      }
+    ]
+  },
+  {
+    "id": 5828,
+    "verse_number": 28,
+    "verse_key": "81:28",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167928,
+        "resource_id": 31,
+        "text": "pour celui d’entre vous qui veut suivre le chemin droit."
+      }
+    ]
+  },
+  {
+    "id": 5829,
+    "verse_number": 29,
+    "verse_key": "81:29",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 234,
+    "ruku_number": 525,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 586,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167929,
+        "resource_id": 31,
+        "text": "Mais vous ne pouvez vouloir, que si Dieu veut, [Lui], le Seigneur de l’Univers."
+      }
+    ]
+  }
+]

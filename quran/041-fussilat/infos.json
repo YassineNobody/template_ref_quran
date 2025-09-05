@@ -1,0 +1,18 @@
+{
+  "id": 41,
+  "revelation_place": "makkah",
+  "revelation_order": 61,
+  "bismillah_pre": true,
+  "name_simple": "Fussilat",
+  "name_complex": "Fuşşilat",
+  "name_arabic": "فصلت",
+  "verses_count": 54,
+  "pages": [
+    477,
+    482
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "Les versets explicites"
+  }
+}

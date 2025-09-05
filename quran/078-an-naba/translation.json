@@ -1,0 +1,762 @@
+[
+  {
+    "id": 5673,
+    "verse_number": 1,
+    "verse_key": "78:1",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167773,
+        "resource_id": 31,
+        "text": "Sur quoi s’interrogent-ils mutuellement ?"
+      }
+    ]
+  },
+  {
+    "id": 5674,
+    "verse_number": 2,
+    "verse_key": "78:2",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167799,
+        "resource_id": 31,
+        "text": "Sur la grande nouvelle,"
+      }
+    ]
+  },
+  {
+    "id": 5675,
+    "verse_number": 3,
+    "verse_key": "78:3",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167791,
+        "resource_id": 31,
+        "text": "à propos de laquelle ils divergent."
+      }
+    ]
+  },
+  {
+    "id": 5676,
+    "verse_number": 4,
+    "verse_key": "78:4",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167803,
+        "resource_id": 31,
+        "text": "Eh bien non! Ils sauront bientôt."
+      }
+    ]
+  },
+  {
+    "id": 5677,
+    "verse_number": 5,
+    "verse_key": "78:5",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167809,
+        "resource_id": 31,
+        "text": "Encore une fois, non! Ils sauront bientôt."
+      }
+    ]
+  },
+  {
+    "id": 5678,
+    "verse_number": 6,
+    "verse_key": "78:6",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167813,
+        "resource_id": 31,
+        "text": "N’avons-Nous pas fait de la terre une couche ?"
+      }
+    ]
+  },
+  {
+    "id": 5679,
+    "verse_number": 7,
+    "verse_key": "78:7",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167811,
+        "resource_id": 31,
+        "text": "et (placé) les montagnes comme des piquets ?"
+      }
+    ]
+  },
+  {
+    "id": 5680,
+    "verse_number": 8,
+    "verse_key": "78:8",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167815,
+        "resource_id": 31,
+        "text": "Nous vous avons créés en couples,"
+      }
+    ]
+  },
+  {
+    "id": 5681,
+    "verse_number": 9,
+    "verse_key": "78:9",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167819,
+        "resource_id": 31,
+        "text": "et désigné votre sommeil pour votre repos,"
+      }
+    ]
+  },
+  {
+    "id": 5682,
+    "verse_number": 10,
+    "verse_key": "78:10",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167801,
+        "resource_id": 31,
+        "text": "et fait de la nuit un vêtement,"
+      }
+    ]
+  },
+  {
+    "id": 5683,
+    "verse_number": 11,
+    "verse_key": "78:11",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167774,
+        "resource_id": 31,
+        "text": "et assigné le jour pour les affaires de la vie,"
+      }
+    ]
+  },
+  {
+    "id": 5684,
+    "verse_number": 12,
+    "verse_key": "78:12",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167775,
+        "resource_id": 31,
+        "text": "et construit au-dessus de vous sept (cieux) renforcés,"
+      }
+    ]
+  },
+  {
+    "id": 5685,
+    "verse_number": 13,
+    "verse_key": "78:13",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167776,
+        "resource_id": 31,
+        "text": "et [y] avons placé une lampe (le soleil) très ardente,"
+      }
+    ]
+  },
+  {
+    "id": 5686,
+    "verse_number": 14,
+    "verse_key": "78:14",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167777,
+        "resource_id": 31,
+        "text": "et fait descendre des nuées une eau abondante."
+      }
+    ]
+  },
+  {
+    "id": 5687,
+    "verse_number": 15,
+    "verse_key": "78:15",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167466,
+        "resource_id": 31,
+        "text": "pour faire pousser par elle grains et plantes."
+      }
+    ]
+  },
+  {
+    "id": 5688,
+    "verse_number": 16,
+    "verse_key": "78:16",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167779,
+        "resource_id": 31,
+        "text": "et jardins luxuriants."
+      }
+    ]
+  },
+  {
+    "id": 5689,
+    "verse_number": 17,
+    "verse_key": "78:17",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167663,
+        "resource_id": 31,
+        "text": "Le Jour de la Décision [du Jugement] a son terme fixé."
+      }
+    ]
+  },
+  {
+    "id": 5690,
+    "verse_number": 18,
+    "verse_key": "78:18",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167664,
+        "resource_id": 31,
+        "text": "Le jour où l’on soufflera dans la Trompe, vous viendrez par troupes,"
+      }
+    ]
+  },
+  {
+    "id": 5691,
+    "verse_number": 19,
+    "verse_key": "78:19",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167716,
+        "resource_id": 31,
+        "text": "et le ciel sera ouvert et [présentera] des portes,"
+      }
+    ]
+  },
+  {
+    "id": 5692,
+    "verse_number": 20,
+    "verse_key": "78:20",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167780,
+        "resource_id": 31,
+        "text": "et les montagnes seront mises en marche et deviendront un mirage."
+      }
+    ]
+  },
+  {
+    "id": 5693,
+    "verse_number": 21,
+    "verse_key": "78:21",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167781,
+        "resource_id": 31,
+        "text": "L’Enfer demeure aux aguets."
+      }
+    ]
+  },
+  {
+    "id": 5694,
+    "verse_number": 22,
+    "verse_key": "78:22",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167783,
+        "resource_id": 31,
+        "text": "refuge pour les transgresseurs."
+      }
+    ]
+  },
+  {
+    "id": 5695,
+    "verse_number": 23,
+    "verse_key": "78:23",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167782,
+        "resource_id": 31,
+        "text": "Ils y demeureront pendant des siècles successifs."
+      }
+    ]
+  },
+  {
+    "id": 5696,
+    "verse_number": 24,
+    "verse_key": "78:24",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167784,
+        "resource_id": 31,
+        "text": "Ils n’y goûteront ni fraîcheur ni breuvage,"
+      }
+    ]
+  },
+  {
+    "id": 5697,
+    "verse_number": 25,
+    "verse_key": "78:25",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167785,
+        "resource_id": 31,
+        "text": "Hormis une eau bouillante et un pus."
+      }
+    ]
+  },
+  {
+    "id": 5698,
+    "verse_number": 26,
+    "verse_key": "78:26",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167787,
+        "resource_id": 31,
+        "text": "comme rétribution équitable."
+      }
+    ]
+  },
+  {
+    "id": 5699,
+    "verse_number": 27,
+    "verse_key": "78:27",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167786,
+        "resource_id": 31,
+        "text": "Car ils ne s’attendaient pas à rendre compte,"
+      }
+    ]
+  },
+  {
+    "id": 5700,
+    "verse_number": 28,
+    "verse_key": "78:28",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167788,
+        "resource_id": 31,
+        "text": "et traitaient de mensonges, continuellement, Nos versets."
+      }
+    ]
+  },
+  {
+    "id": 5701,
+    "verse_number": 29,
+    "verse_key": "78:29",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167789,
+        "resource_id": 31,
+        "text": "alors que Nous avons dénombré toutes choses en écrit."
+      }
+    ]
+  },
+  {
+    "id": 5702,
+    "verse_number": 30,
+    "verse_key": "78:30",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 520,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 582,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167792,
+        "resource_id": 31,
+        "text": "Goûtez-donc. Nous n’augmenterons pour vous que le châtiment !"
+      }
+    ]
+  },
+  {
+    "id": 5703,
+    "verse_number": 31,
+    "verse_key": "78:31",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167793,
+        "resource_id": 31,
+        "text": "Pour les pieux ce sera une réussite :"
+      }
+    ]
+  },
+  {
+    "id": 5704,
+    "verse_number": 32,
+    "verse_key": "78:32",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165026,
+        "resource_id": 31,
+        "text": "jardins et vignes,"
+      }
+    ]
+  },
+  {
+    "id": 5705,
+    "verse_number": 33,
+    "verse_key": "78:33",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167794,
+        "resource_id": 31,
+        "text": "et des (belles) aux seins arrondis, d’une égale jeunesse,"
+      }
+    ]
+  },
+  {
+    "id": 5706,
+    "verse_number": 34,
+    "verse_key": "78:34",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167795,
+        "resource_id": 31,
+        "text": "et coupes débordantes."
+      }
+    ]
+  },
+  {
+    "id": 5707,
+    "verse_number": 35,
+    "verse_key": "78:35",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167796,
+        "resource_id": 31,
+        "text": "Ils n’y entendront ni futilités ni mensonges."
+      }
+    ]
+  },
+  {
+    "id": 5708,
+    "verse_number": 36,
+    "verse_key": "78:36",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167797,
+        "resource_id": 31,
+        "text": "A titre de récompense de ton Seigneur et à titre de don abondant."
+      }
+    ]
+  },
+  {
+    "id": 5709,
+    "verse_number": 37,
+    "verse_key": "78:37",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167798,
+        "resource_id": 31,
+        "text": "du Seigneur des cieux et de la terre et de ce qui existe entre eux, le Tout Miséricordieux; ils n’osent nullement Lui adresser la parole."
+      }
+    ]
+  },
+  {
+    "id": 5710,
+    "verse_number": 38,
+    "verse_key": "78:38",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167800,
+        "resource_id": 31,
+        "text": "Le jour où l’Esprit <sup foot_note=233052>1</sup> et les Anges se dresseront en rangs, nul ne saura parler, sauf celui à qui le Tout Miséricordieux aura accordé la permission, et qui dira la vérité."
+      }
+    ]
+  },
+  {
+    "id": 5711,
+    "verse_number": 39,
+    "verse_key": "78:39",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167805,
+        "resource_id": 31,
+        "text": "Ce jour-là est inéluctable. Que celui qui veut prenne donc refuge auprès de son Seigneur."
+      }
+    ]
+  },
+  {
+    "id": 5712,
+    "verse_number": 40,
+    "verse_key": "78:40",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 521,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167804,
+        "resource_id": 31,
+        "text": "Nous vous avons avertis d’un châtiment bien proche, le jour où l’homme verra ce que ses deux mains ont préparé ; et l’infidèle dira : \"Hélas pour moi ! Comme j’aurais aimé n’être que poussière.\""
+      }
+    ]
+  }
+]

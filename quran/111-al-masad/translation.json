@@ -1,0 +1,97 @@
+[
+  {
+    "id": 6217,
+    "verse_number": 1,
+    "verse_key": "111:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 555,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 603,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168818,
+        "resource_id": 31,
+        "text": "Que périssent les deux mains d’Abû-Lahab <sup foot_note=233123>1</sup> et que lui-même périsse."
+      }
+    ]
+  },
+  {
+    "id": 6218,
+    "verse_number": 2,
+    "verse_key": "111:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 555,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 603,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 164929,
+        "resource_id": 31,
+        "text": "Sa fortune ne lui sert à rien, ni ce qu’il a acquis."
+      }
+    ]
+  },
+  {
+    "id": 6219,
+    "verse_number": 3,
+    "verse_key": "111:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 555,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 603,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 169143,
+        "resource_id": 31,
+        "text": "Il sera brûlé dans un Feu plein de flammes."
+      }
+    ]
+  },
+  {
+    "id": 6220,
+    "verse_number": 4,
+    "verse_key": "111:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 555,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 603,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168843,
+        "resource_id": 31,
+        "text": "de même sa femme, la porteuse de bois <sup foot_note=233124>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 6221,
+    "verse_number": 5,
+    "verse_key": "111:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 555,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 603,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 164792,
+        "resource_id": 31,
+        "text": "à son cou, une corde de fibres."
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": 6194,
+    "verse_number": 1,
+    "verse_key": "106:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 550,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 602,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 164806,
+        "resource_id": 31,
+        "text": "A cause de l'habitude des Quraysh <sup foot_note=233120>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 6195,
+    "verse_number": 2,
+    "verse_key": "106:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 550,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 602,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 169089,
+        "resource_id": 31,
+        "text": "De leur habitude [concernant] les voyages d’hiver et d’été <sup foot_note=233121>1</sup>."
+      }
+    ]
+  },
+  {
+    "id": 6196,
+    "verse_number": 3,
+    "verse_key": "106:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 550,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 602,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 169093,
+        "resource_id": 31,
+        "text": "Qu’ils adorent donc le Seigneur de cette Maison (la Kaaba)."
+      }
+    ]
+  },
+  {
+    "id": 6197,
+    "verse_number": 4,
+    "verse_key": "106:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 240,
+    "ruku_number": 550,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 602,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168739,
+        "resource_id": 31,
+        "text": "qui les a nourris contre la faim et rassurés de la crainte!"
+      }
+    ]
+  }
+]

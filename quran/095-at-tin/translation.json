@@ -1,0 +1,154 @@
+[
+  {
+    "id": 6099,
+    "verse_number": 1,
+    "verse_key": "95:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 539,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 597,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168341,
+        "resource_id": 31,
+        "text": "Par le figuier et l’olivier <sup foot_note=233105>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 6100,
+    "verse_number": 2,
+    "verse_key": "95:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 539,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 597,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165075,
+        "resource_id": 31,
+        "text": "Et par le Mont Sînîn<sup foot_note=233106>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 6101,
+    "verse_number": 3,
+    "verse_key": "95:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 539,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 597,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168342,
+        "resource_id": 31,
+        "text": "Et par cette Cité sûre <sup foot_note=233107>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 6102,
+    "verse_number": 4,
+    "verse_key": "95:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 539,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 597,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168355,
+        "resource_id": 31,
+        "text": "Nous avons certes créé l’homme dans la forme la plus parfaite."
+      }
+    ]
+  },
+  {
+    "id": 6103,
+    "verse_number": 5,
+    "verse_key": "95:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 539,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 597,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168347,
+        "resource_id": 31,
+        "text": "Ensuite, Nous l’avons ramené au niveau le plus bas,"
+      }
+    ]
+  },
+  {
+    "id": 6104,
+    "verse_number": 6,
+    "verse_key": "95:6",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 539,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 597,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168349,
+        "resource_id": 31,
+        "text": "sauf ceux qui croient et accomplissent les bonnes œuvres: ceux-là auront une récompense jamais interrompue."
+      }
+    ]
+  },
+  {
+    "id": 6105,
+    "verse_number": 7,
+    "verse_key": "95:7",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 539,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 597,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168351,
+        "resource_id": 31,
+        "text": "Après cela, qu’est-ce qui te fait traiter la rétribution de mensonge ?"
+      }
+    ]
+  },
+  {
+    "id": 6106,
+    "verse_number": 8,
+    "verse_key": "95:8",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 539,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 597,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168353,
+        "resource_id": 31,
+        "text": "Allah n’est-Il pas le plus sage des Juges <sup foot_note=233108>1</sup> ?"
+      }
+    ]
+  }
+]

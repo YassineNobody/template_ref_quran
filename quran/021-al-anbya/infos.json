@@ -1,0 +1,18 @@
+{
+  "id": 21,
+  "revelation_place": "makkah",
+  "revelation_order": 73,
+  "bismillah_pre": true,
+  "name_simple": "Al-Anbya",
+  "name_complex": "Al-'Anbyā",
+  "name_arabic": "الأنبياء",
+  "verses_count": 112,
+  "pages": [
+    322,
+    331
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "Les prophètes"
+  }
+}

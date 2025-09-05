@@ -1,0 +1,54 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# --- Virtualenv / Poetry / Pipenv ---
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+poetry.lock
+Pipfile.lock
+
+# --- IDE / Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS spécifiques ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & debug ---
+*.log
+*.tmp
+
+# --- Tests / coverage ---
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# --- Build / Dist ---
+build/
+dist/
+*.egg-info/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- Project specific ---
+# fichiers générés par ton script
+quran_token.json
+.env
+.env/

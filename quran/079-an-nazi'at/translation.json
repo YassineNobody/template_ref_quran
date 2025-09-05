@@ -1,0 +1,876 @@
+[
+  {
+    "id": 5713,
+    "verse_number": 1,
+    "verse_key": "79:1",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167866,
+        "resource_id": 31,
+        "text": "Par ceux qui arrachent violemment <sup foot_note=233054>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 5714,
+    "verse_number": 2,
+    "verse_key": "79:2",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167843,
+        "resource_id": 31,
+        "text": "Et par ceux qui recueillent avec douceur <sup foot_note=233055>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 5715,
+    "verse_number": 3,
+    "verse_key": "79:3",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167864,
+        "resource_id": 31,
+        "text": "Et par ceux qui voguent librement,"
+      }
+    ]
+  },
+  {
+    "id": 5716,
+    "verse_number": 4,
+    "verse_key": "79:4",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167856,
+        "resource_id": 31,
+        "text": "puis s’élancent à toute vitesse,"
+      }
+    ]
+  },
+  {
+    "id": 5717,
+    "verse_number": 5,
+    "verse_key": "79:5",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 164845,
+        "resource_id": 31,
+        "text": "et règlent les affaires !"
+      }
+    ]
+  },
+  {
+    "id": 5718,
+    "verse_number": 6,
+    "verse_key": "79:6",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167868,
+        "resource_id": 31,
+        "text": "Le jour où [la terre] tremblera [au premier son du clairon]"
+      }
+    ]
+  },
+  {
+    "id": 5719,
+    "verse_number": 7,
+    "verse_key": "79:7",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167911,
+        "resource_id": 31,
+        "text": "immédiatement suivi du deuxième."
+      }
+    ]
+  },
+  {
+    "id": 5720,
+    "verse_number": 8,
+    "verse_key": "79:8",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167870,
+        "resource_id": 31,
+        "text": "Ce jour-là, il y aura des cœurs qui seront agités d’effroi,"
+      }
+    ]
+  },
+  {
+    "id": 5721,
+    "verse_number": 9,
+    "verse_key": "79:9",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167872,
+        "resource_id": 31,
+        "text": "et leurs regards se baisseront."
+      }
+    ]
+  },
+  {
+    "id": 5722,
+    "verse_number": 10,
+    "verse_key": "79:10",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167831,
+        "resource_id": 31,
+        "text": "Ils disent : \"Quoi ! Serons-nous ramenés à notre vie première,"
+      }
+    ]
+  },
+  {
+    "id": 5723,
+    "verse_number": 11,
+    "verse_key": "79:11",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167822,
+        "resource_id": 31,
+        "text": "quand nous serons ossements pourris ?\""
+      }
+    ]
+  },
+  {
+    "id": 5724,
+    "verse_number": 12,
+    "verse_key": "79:12",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167823,
+        "resource_id": 31,
+        "text": "Ils disent: \"ce sera alors un retour ruineux !\""
+      }
+    ]
+  },
+  {
+    "id": 5725,
+    "verse_number": 13,
+    "verse_key": "79:13",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 165063,
+        "resource_id": 31,
+        "text": "Il n’y aura qu’une sommation,"
+      }
+    ]
+  },
+  {
+    "id": 5726,
+    "verse_number": 14,
+    "verse_key": "79:14",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167824,
+        "resource_id": 31,
+        "text": "et voilà qu’ils seront sur la terre (ressuscités)."
+      }
+    ]
+  },
+  {
+    "id": 5727,
+    "verse_number": 15,
+    "verse_key": "79:15",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 583,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167825,
+        "resource_id": 31,
+        "text": "Le récit de Moïse t’est-il parvenu ?"
+      }
+    ]
+  },
+  {
+    "id": 5728,
+    "verse_number": 16,
+    "verse_key": "79:16",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167826,
+        "resource_id": 31,
+        "text": "Quand son Seigneur l’appela, dans Touwâ, la vallée sanctifiée :"
+      }
+    ]
+  },
+  {
+    "id": 5729,
+    "verse_number": 17,
+    "verse_key": "79:17",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167827,
+        "resource_id": 31,
+        "text": "\"Va vers Pharaon. Vraiment, il s’est rebellé !"
+      }
+    ]
+  },
+  {
+    "id": 5730,
+    "verse_number": 18,
+    "verse_key": "79:18",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167828,
+        "resource_id": 31,
+        "text": "Puis dis-lui : \"Voudrais-tu te purifier ?"
+      }
+    ]
+  },
+  {
+    "id": 5731,
+    "verse_number": 19,
+    "verse_key": "79:19",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167829,
+        "resource_id": 31,
+        "text": "et que je te guide vers ton Seigneur afin que tu Le craignes ?\""
+      }
+    ]
+  },
+  {
+    "id": 5732,
+    "verse_number": 20,
+    "verse_key": "79:20",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167832,
+        "resource_id": 31,
+        "text": "Il lui fit voir le très grand miracle."
+      }
+    ]
+  },
+  {
+    "id": 5733,
+    "verse_number": 21,
+    "verse_key": "79:21",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167833,
+        "resource_id": 31,
+        "text": "Mais il le qualifia de mensonge et désobéit ;"
+      }
+    ]
+  },
+  {
+    "id": 5734,
+    "verse_number": 22,
+    "verse_key": "79:22",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167834,
+        "resource_id": 31,
+        "text": "ensuite, il tourna le dos, s’en alla précipitamment,"
+      }
+    ]
+  },
+  {
+    "id": 5735,
+    "verse_number": 23,
+    "verse_key": "79:23",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167835,
+        "resource_id": 31,
+        "text": "rassembla [les gens] et leur fit une proclamation,"
+      }
+    ]
+  },
+  {
+    "id": 5736,
+    "verse_number": 24,
+    "verse_key": "79:24",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167836,
+        "resource_id": 31,
+        "text": "et dit : \"C’est moi votre Seigneur, le très-Haut.\""
+      }
+    ]
+  },
+  {
+    "id": 5737,
+    "verse_number": 25,
+    "verse_key": "79:25",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167837,
+        "resource_id": 31,
+        "text": "Alors Allah le saisit de la punition exemplaire de l’au-delà et de celle d’ici-bas."
+      }
+    ]
+  },
+  {
+    "id": 5738,
+    "verse_number": 26,
+    "verse_key": "79:26",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 522,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167838,
+        "resource_id": 31,
+        "text": "Il y a certes là un sujet de réflexion pour celui qui craint."
+      }
+    ]
+  },
+  {
+    "id": 5739,
+    "verse_number": 27,
+    "verse_key": "79:27",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167839,
+        "resource_id": 31,
+        "text": "Etes-vous plus durs à créer ? ou le ciel, qu’Il a pourtant construit ?"
+      }
+    ]
+  },
+  {
+    "id": 5740,
+    "verse_number": 28,
+    "verse_key": "79:28",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167840,
+        "resource_id": 31,
+        "text": "Il a élevé bien haut sa voûte, puis l’a parfaitement ordonné ;"
+      }
+    ]
+  },
+  {
+    "id": 5741,
+    "verse_number": 29,
+    "verse_key": "79:29",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167841,
+        "resource_id": 31,
+        "text": "Il a assombri sa nuit et fait luire son jour."
+      }
+    ]
+  },
+  {
+    "id": 5742,
+    "verse_number": 30,
+    "verse_key": "79:30",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167844,
+        "resource_id": 31,
+        "text": "Et quant à la terre, après cela, Il l’a étendue :"
+      }
+    ]
+  },
+  {
+    "id": 5743,
+    "verse_number": 31,
+    "verse_key": "79:31",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167845,
+        "resource_id": 31,
+        "text": "Il a fait sortir d’elle son eau et son pâturage,"
+      }
+    ]
+  },
+  {
+    "id": 5744,
+    "verse_number": 32,
+    "verse_key": "79:32",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167846,
+        "resource_id": 31,
+        "text": "et quant aux montagnes, Il les a ancrées,"
+      }
+    ]
+  },
+  {
+    "id": 5745,
+    "verse_number": 33,
+    "verse_key": "79:33",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167847,
+        "resource_id": 31,
+        "text": "pour votre jouissance, vous et vos bestiaux."
+      }
+    ]
+  },
+  {
+    "id": 5746,
+    "verse_number": 34,
+    "verse_key": "79:34",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167848,
+        "resource_id": 31,
+        "text": "Puis quand viendra le grand cataclysme,"
+      }
+    ]
+  },
+  {
+    "id": 5747,
+    "verse_number": 35,
+    "verse_key": "79:35",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167849,
+        "resource_id": 31,
+        "text": "le jour où l’homme se rappellera à quoi il s’est efforcé,"
+      }
+    ]
+  },
+  {
+    "id": 5748,
+    "verse_number": 36,
+    "verse_key": "79:36",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167850,
+        "resource_id": 31,
+        "text": "l’Enfer sera pleinement visible à celui qui regardera..."
+      }
+    ]
+  },
+  {
+    "id": 5749,
+    "verse_number": 37,
+    "verse_key": "79:37",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167851,
+        "resource_id": 31,
+        "text": "Quant à celui qui aura dépassé les limites."
+      }
+    ]
+  },
+  {
+    "id": 5750,
+    "verse_number": 38,
+    "verse_key": "79:38",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167852,
+        "resource_id": 31,
+        "text": "et aura préféré la vie présente,"
+      }
+    ]
+  },
+  {
+    "id": 5751,
+    "verse_number": 39,
+    "verse_key": "79:39",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167854,
+        "resource_id": 31,
+        "text": "alors, l’Enfer sera son refuge."
+      }
+    ]
+  },
+  {
+    "id": 5752,
+    "verse_number": 40,
+    "verse_key": "79:40",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167855,
+        "resource_id": 31,
+        "text": "Et pour celui qui aura redouté de comparaître devant son Seigneur, et préservé son âme de la passion,"
+      }
+    ]
+  },
+  {
+    "id": 5753,
+    "verse_number": 41,
+    "verse_key": "79:41",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167858,
+        "resource_id": 31,
+        "text": "le Paradis sera alors son refuge."
+      }
+    ]
+  },
+  {
+    "id": 5754,
+    "verse_number": 42,
+    "verse_key": "79:42",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167857,
+        "resource_id": 31,
+        "text": "Ils t’interrogent au sujet de l’Heure : \"Quand va-t-elle jeter l’ancre ?\"<sup foot_note=233058>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 5755,
+    "verse_number": 43,
+    "verse_key": "79:43",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167859,
+        "resource_id": 31,
+        "text": "Quelle [science] en as-tu pour le leur dire ?"
+      }
+    ]
+  },
+  {
+    "id": 5756,
+    "verse_number": 44,
+    "verse_key": "79:44",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167860,
+        "resource_id": 31,
+        "text": "Son terme n’est connu que de ton Seigneur."
+      }
+    ]
+  },
+  {
+    "id": 5757,
+    "verse_number": 45,
+    "verse_key": "79:45",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167861,
+        "resource_id": 31,
+        "text": "Tu n’es que l’avertisseur de celui qui la redoute."
+      }
+    ]
+  },
+  {
+    "id": 5758,
+    "verse_number": 46,
+    "verse_key": "79:46",
+    "hizb_number": 59,
+    "rub_el_hizb_number": 233,
+    "ruku_number": 523,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 584,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 167862,
+        "resource_id": 31,
+        "text": "Le jour où ils la verront, il leur semblera n’avoir demeuré qu’un soir ou un matin."
+      }
+    ]
+  }
+]

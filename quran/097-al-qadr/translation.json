@@ -1,0 +1,97 @@
+[
+  {
+    "id": 6126,
+    "verse_number": 1,
+    "verse_key": "97:1",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 541,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 598,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168389,
+        "resource_id": 31,
+        "text": "Nous l’avons certes, fait descendre (le Coran) pendant la nuit d’Al-Qadr (du Destin)."
+      }
+    ]
+  },
+  {
+    "id": 6127,
+    "verse_number": 2,
+    "verse_key": "97:2",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 541,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 598,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168392,
+        "resource_id": 31,
+        "text": "Et qui te dira ce qu’est la nuit d’Al-Qadr ?"
+      }
+    ]
+  },
+  {
+    "id": 6128,
+    "verse_number": 3,
+    "verse_key": "97:3",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 541,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 598,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168257,
+        "resource_id": 31,
+        "text": "La nuit d’Al-Qadr est meilleure que mille mois."
+      }
+    ]
+  },
+  {
+    "id": 6129,
+    "verse_number": 4,
+    "verse_key": "97:4",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 541,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 598,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168399,
+        "resource_id": 31,
+        "text": "Durant celle-ci descendent les Anges ainsi que l’Esprit <sup foot_note=233112>1</sup>, par permission de leur Seigneur pour tout ordre."
+      }
+    ]
+  },
+  {
+    "id": 6130,
+    "verse_number": 5,
+    "verse_key": "97:5",
+    "hizb_number": 60,
+    "rub_el_hizb_number": 239,
+    "ruku_number": 541,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 598,
+    "juz_number": 30,
+    "translations": [
+      {
+        "id": 168394,
+        "resource_id": 31,
+        "text": "Elle est paix et salut jusqu’à l’apparition de l’aube."
+      }
+    ]
+  }
+]

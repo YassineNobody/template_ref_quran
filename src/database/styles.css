@@ -1,0 +1,36 @@
+tajweed.ham_wasl {
+  color: red;
+  font-weight: bold;
+}
+
+tajweed.laam_shamsiyah {
+  color: green;
+}
+
+tajweed.madda_normal {
+  color: blue;
+}
+
+tajweed.madda_permissible {
+  color: orange;
+}
+
+tajweed.madda_necessary {
+  color: purple;
+}
+
+tajweed.madda_obligatory {
+  color: darkred;
+}
+
+tajweed.ikhfa {
+  color: teal;
+}
+
+tajweed.idgham {
+  color: brown;
+}
+
+tajweed.qalqalah {
+  color: magenta;
+}

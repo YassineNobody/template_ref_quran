@@ -1,0 +1,952 @@
+[
+  {
+    "id": 5623,
+    "verse_number": 1,
+    "verse_key": "77:1",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 165059,
+        "resource_id": 31,
+        "text": "Par ceux qu’on envoie en rafales <sup foot_note=233038>1</sup>."
+      }
+    ]
+  },
+  {
+    "id": 5624,
+    "verse_number": 2,
+    "verse_key": "77:2",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167740,
+        "resource_id": 31,
+        "text": "et qui soufflent en tempête !"
+      }
+    ]
+  },
+  {
+    "id": 5625,
+    "verse_number": 3,
+    "verse_key": "77:3",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167748,
+        "resource_id": 31,
+        "text": "Et qui dispersent largement [dans toutes les directions]."
+      }
+    ]
+  },
+  {
+    "id": 5626,
+    "verse_number": 4,
+    "verse_key": "77:4",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167760,
+        "resource_id": 31,
+        "text": "Par ceux qui séparent nettement (le bien et le mal) <sup foot_note=233040>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 5627,
+    "verse_number": 5,
+    "verse_key": "77:5",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 165061,
+        "resource_id": 31,
+        "text": "et lancent un rappel."
+      }
+    ]
+  },
+  {
+    "id": 5628,
+    "verse_number": 6,
+    "verse_key": "77:6",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167764,
+        "resource_id": 31,
+        "text": "En guise d’excuse ou d’avertissement<sup foot_note=233042>1</sup> !"
+      }
+    ]
+  },
+  {
+    "id": 5629,
+    "verse_number": 7,
+    "verse_key": "77:7",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167768,
+        "resource_id": 31,
+        "text": "Ce qui vous est promis est inéluctable."
+      }
+    ]
+  },
+  {
+    "id": 5630,
+    "verse_number": 8,
+    "verse_key": "77:8",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167766,
+        "resource_id": 31,
+        "text": "Quand donc les étoiles seront effacées,"
+      }
+    ]
+  },
+  {
+    "id": 5631,
+    "verse_number": 9,
+    "verse_key": "77:9",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167770,
+        "resource_id": 31,
+        "text": "et que le ciel sera fendu,"
+      }
+    ]
+  },
+  {
+    "id": 5632,
+    "verse_number": 10,
+    "verse_key": "77:10",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 169495,
+        "resource_id": 31,
+        "text": "et que les montagnes seront pulvérisées,"
+      }
+    ]
+  },
+  {
+    "id": 5633,
+    "verse_number": 11,
+    "verse_key": "77:11",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167817,
+        "resource_id": 31,
+        "text": "et que le moment (pour la réunion) des Messagers a été fixé! ..."
+      }
+    ]
+  },
+  {
+    "id": 5634,
+    "verse_number": 12,
+    "verse_key": "77:12",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167807,
+        "resource_id": 31,
+        "text": "A quel jour tout cela a-t-il été renvoyé?"
+      }
+    ]
+  },
+  {
+    "id": 5635,
+    "verse_number": 13,
+    "verse_key": "77:13",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167728,
+        "resource_id": 31,
+        "text": "Au Jour de la Décision. [le Jugement]!"
+      }
+    ]
+  },
+  {
+    "id": 5636,
+    "verse_number": 14,
+    "verse_key": "77:14",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167721,
+        "resource_id": 31,
+        "text": "Et qui te dira ce qu’est le Jour de la Décision ?"
+      }
+    ]
+  },
+  {
+    "id": 5637,
+    "verse_number": 15,
+    "verse_key": "77:15",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167722,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5638,
+    "verse_number": 16,
+    "verse_key": "77:16",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167723,
+        "resource_id": 31,
+        "text": "N’avons-Nous pas fait périr les premières [générations] ?"
+      }
+    ]
+  },
+  {
+    "id": 5639,
+    "verse_number": 17,
+    "verse_key": "77:17",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167724,
+        "resource_id": 31,
+        "text": "Puis ne les avons-Nous pas fait suivre par les derniers ?"
+      }
+    ]
+  },
+  {
+    "id": 5640,
+    "verse_number": 18,
+    "verse_key": "77:18",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167725,
+        "resource_id": 31,
+        "text": "C’est ainsi que Nous agissons avec les criminels."
+      }
+    ]
+  },
+  {
+    "id": 5641,
+    "verse_number": 19,
+    "verse_key": "77:19",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 580,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167726,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5642,
+    "verse_number": 20,
+    "verse_key": "77:20",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167729,
+        "resource_id": 31,
+        "text": "Ne vous avons-Nous pas créés d’une eau vile <sup foot_note=233043>1</sup>."
+      }
+    ]
+  },
+  {
+    "id": 5643,
+    "verse_number": 21,
+    "verse_key": "77:21",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167730,
+        "resource_id": 31,
+        "text": "que Nous avons placée dans un reposoir sûr <sup foot_note=233044>1</sup>,"
+      }
+    ]
+  },
+  {
+    "id": 5644,
+    "verse_number": 22,
+    "verse_key": "77:22",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167736,
+        "resource_id": 31,
+        "text": "pour une durée connue ?"
+      }
+    ]
+  },
+  {
+    "id": 5645,
+    "verse_number": 23,
+    "verse_key": "77:23",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167731,
+        "resource_id": 31,
+        "text": "Nous l’avons décrété ainsi et Nous décrétons [tout] de façon parfaite."
+      }
+    ]
+  },
+  {
+    "id": 5646,
+    "verse_number": 24,
+    "verse_key": "77:24",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167732,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5647,
+    "verse_number": 25,
+    "verse_key": "77:25",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167733,
+        "resource_id": 31,
+        "text": "N’avons-Nous pas fait de la terre un endroit les contenant tous,"
+      }
+    ]
+  },
+  {
+    "id": 5648,
+    "verse_number": 26,
+    "verse_key": "77:26",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167734,
+        "resource_id": 31,
+        "text": "les vivants ainsi que les morts ?"
+      }
+    ]
+  },
+  {
+    "id": 5649,
+    "verse_number": 27,
+    "verse_key": "77:27",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167735,
+        "resource_id": 31,
+        "text": "Et n’y avons-Nous pas placé fermement de hautes montagnes ? Et ne vous avons-Nous pas abreuvés d’eau douce ?"
+      }
+    ]
+  },
+  {
+    "id": 5650,
+    "verse_number": 28,
+    "verse_key": "77:28",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167738,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5651,
+    "verse_number": 29,
+    "verse_key": "77:29",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167737,
+        "resource_id": 31,
+        "text": "Allez vers ce que vous traitiez alors de mensonge !"
+      }
+    ]
+  },
+  {
+    "id": 5652,
+    "verse_number": 30,
+    "verse_key": "77:30",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167741,
+        "resource_id": 31,
+        "text": "Allez vers une ombre [fumée de l’Enfer] à trois branches ;"
+      }
+    ]
+  },
+  {
+    "id": 5653,
+    "verse_number": 31,
+    "verse_key": "77:31",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167742,
+        "resource_id": 31,
+        "text": "qui n’est ni ombreuse ni capable de protéger contre la flamme ;"
+      }
+    ]
+  },
+  {
+    "id": 5654,
+    "verse_number": 32,
+    "verse_key": "77:32",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167743,
+        "resource_id": 31,
+        "text": "car [le feu] jette des étincelles volumineuses comme des châteaux,"
+      }
+    ]
+  },
+  {
+    "id": 5655,
+    "verse_number": 33,
+    "verse_key": "77:33",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167744,
+        "resource_id": 31,
+        "text": "et qu’on prendrait pour des chameaux jaunes."
+      }
+    ]
+  },
+  {
+    "id": 5656,
+    "verse_number": 34,
+    "verse_key": "77:34",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 162525,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5657,
+    "verse_number": 35,
+    "verse_key": "77:35",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 162605,
+        "resource_id": 31,
+        "text": "Ce sera le jour où ils ne [peuvent] pas parler,"
+      }
+    ]
+  },
+  {
+    "id": 5658,
+    "verse_number": 36,
+    "verse_key": "77:36",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 162735,
+        "resource_id": 31,
+        "text": "et point ne leur sera donné permission de s’excuser."
+      }
+    ]
+  },
+  {
+    "id": 5659,
+    "verse_number": 37,
+    "verse_key": "77:37",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 162867,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5660,
+    "verse_number": 38,
+    "verse_key": "77:38",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167745,
+        "resource_id": 31,
+        "text": "C’est le Jour de la Décision [Jugement], où nous vous réunirons ainsi que les anciens."
+      }
+    ]
+  },
+  {
+    "id": 5661,
+    "verse_number": 39,
+    "verse_key": "77:39",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167746,
+        "resource_id": 31,
+        "text": "Si vous disposez d’une ruse, rusez donc contre Moi."
+      }
+    ]
+  },
+  {
+    "id": 5662,
+    "verse_number": 40,
+    "verse_key": "77:40",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 518,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167749,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5663,
+    "verse_number": 41,
+    "verse_key": "77:41",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167750,
+        "resource_id": 31,
+        "text": "Les pieux seront parmi des ombrages et des sources."
+      }
+    ]
+  },
+  {
+    "id": 5664,
+    "verse_number": 42,
+    "verse_key": "77:42",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167751,
+        "resource_id": 31,
+        "text": "De même que des fruits selon leurs désirs."
+      }
+    ]
+  },
+  {
+    "id": 5665,
+    "verse_number": 43,
+    "verse_key": "77:43",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167752,
+        "resource_id": 31,
+        "text": "“Mangez et buvez agréablement, pour ce que vous faisiez.”"
+      }
+    ]
+  },
+  {
+    "id": 5666,
+    "verse_number": 44,
+    "verse_key": "77:44",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167753,
+        "resource_id": 31,
+        "text": "C’est ainsi que Nous récompensons les bienfaisants."
+      }
+    ]
+  },
+  {
+    "id": 5667,
+    "verse_number": 45,
+    "verse_key": "77:45",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167754,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5668,
+    "verse_number": 46,
+    "verse_key": "77:46",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167755,
+        "resource_id": 31,
+        "text": "“Mangez et jouissez un peu (ici-bas); vous êtes certes des criminels”."
+      }
+    ]
+  },
+  {
+    "id": 5669,
+    "verse_number": 47,
+    "verse_key": "77:47",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167756,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5670,
+    "verse_number": 48,
+    "verse_key": "77:48",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167757,
+        "resource_id": 31,
+        "text": "Et quand on leur dit : “Inclinez-vous <sup foot_note=233046>1</sup>, ils ne s’inclinent pas."
+      }
+    ]
+  },
+  {
+    "id": 5671,
+    "verse_number": 49,
+    "verse_key": "77:49",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167758,
+        "resource_id": 31,
+        "text": "Malheur, ce jour-là, à ceux qui criaient au mensonge."
+      }
+    ]
+  },
+  {
+    "id": 5672,
+    "verse_number": 50,
+    "verse_key": "77:50",
+    "hizb_number": 58,
+    "rub_el_hizb_number": 232,
+    "ruku_number": 519,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 581,
+    "juz_number": 29,
+    "translations": [
+      {
+        "id": 167762,
+        "resource_id": 31,
+        "text": "Après cela, en quelle parole croiront-ils donc <sup foot_note=233047>1</sup> ?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1484 @@
+[
+  {
+    "id": 4902,
+    "verse_number": 1,
+    "verse_key": "55:1",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166705,
+        "resource_id": 31,
+        "text": "Le Tout Miséricordieux."
+      }
+    ]
+  },
+  {
+    "id": 4903,
+    "verse_number": 2,
+    "verse_key": "55:2",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166657,
+        "resource_id": 31,
+        "text": "Il a enseigné le Coran."
+      }
+    ]
+  },
+  {
+    "id": 4904,
+    "verse_number": 3,
+    "verse_key": "55:3",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166645,
+        "resource_id": 31,
+        "text": "Il a créé l’homme."
+      }
+    ]
+  },
+  {
+    "id": 4905,
+    "verse_number": 4,
+    "verse_key": "55:4",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166668,
+        "resource_id": 31,
+        "text": "Il lui a appris à s’exprimer clairement."
+      }
+    ]
+  },
+  {
+    "id": 4906,
+    "verse_number": 5,
+    "verse_key": "55:5",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166674,
+        "resource_id": 31,
+        "text": "Le soleil et la lune [évoluent] selon un calcul [minutieux]"
+      }
+    ]
+  },
+  {
+    "id": 4907,
+    "verse_number": 6,
+    "verse_key": "55:6",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166688,
+        "resource_id": 31,
+        "text": "et les étoiles et les arbres se prosternent . <sup foot_note=232846>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4908,
+    "verse_number": 7,
+    "verse_key": "55:7",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166699,
+        "resource_id": 31,
+        "text": "Et quant au ciel, Il l’a élevé bien haut. Et Il a établi la balance,"
+      }
+    ]
+  },
+  {
+    "id": 4909,
+    "verse_number": 8,
+    "verse_key": "55:8",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166701,
+        "resource_id": 31,
+        "text": "afin que vous ne transgressiez pas dans la pesée :"
+      }
+    ]
+  },
+  {
+    "id": 4910,
+    "verse_number": 9,
+    "verse_key": "55:9",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166703,
+        "resource_id": 31,
+        "text": "Donnez [toujours] le poids exact et ne faussez pas la pesée."
+      }
+    ]
+  },
+  {
+    "id": 4911,
+    "verse_number": 10,
+    "verse_key": "55:10",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166623,
+        "resource_id": 31,
+        "text": "Quant à la terre, Il l’a étendue pour les êtres vivants :"
+      }
+    ]
+  },
+  {
+    "id": 4912,
+    "verse_number": 11,
+    "verse_key": "55:11",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166633,
+        "resource_id": 31,
+        "text": "il s’y trouve des fruits, et aussi les palmiers aux fruits recouverts d’enveloppes,"
+      }
+    ]
+  },
+  {
+    "id": 4913,
+    "verse_number": 12,
+    "verse_key": "55:12",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166624,
+        "resource_id": 31,
+        "text": "tout comme les grains dans leurs balles, et les plantes aromatiques."
+      }
+    ]
+  },
+  {
+    "id": 4914,
+    "verse_number": 13,
+    "verse_key": "55:13",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166625,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre  Seigneur nierez-vous ? <sup foot_note=232850>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4915,
+    "verse_number": 14,
+    "verse_key": "55:14",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166626,
+        "resource_id": 31,
+        "text": "Il a créé l’homme d’argile sonnante comme la poterie ;"
+      }
+    ]
+  },
+  {
+    "id": 4916,
+    "verse_number": 15,
+    "verse_key": "55:15",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166627,
+        "resource_id": 31,
+        "text": "et Il a créé les djinns de la flamme d’un feu sans fumée ;"
+      }
+    ]
+  },
+  {
+    "id": 4917,
+    "verse_number": 16,
+    "verse_key": "55:16",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 531,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166628,
+        "resource_id": 31,
+        "text": "lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4918,
+    "verse_number": 17,
+    "verse_key": "55:17",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166629,
+        "resource_id": 31,
+        "text": "Seigneur des deux Levants et Seigneur des deux Couchants  ! <sup foot_note=232851>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4919,
+    "verse_number": 18,
+    "verse_key": "55:18",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166630,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4920,
+    "verse_number": 19,
+    "verse_key": "55:19",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166631,
+        "resource_id": 31,
+        "text": "Il a donné libre cours aux deux mers pour se rencontrer  ; <sup foot_note=232853>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4921,
+    "verse_number": 20,
+    "verse_key": "55:20",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166634,
+        "resource_id": 31,
+        "text": "il y a entre elles une barrière qu’elles ne dépassent pas . <sup foot_note=232854>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4922,
+    "verse_number": 21,
+    "verse_key": "55:21",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166635,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4923,
+    "verse_number": 22,
+    "verse_key": "55:22",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166636,
+        "resource_id": 31,
+        "text": "De ces deux [mers] : sortent la perle et le corail."
+      }
+    ]
+  },
+  {
+    "id": 4924,
+    "verse_number": 23,
+    "verse_key": "55:23",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166637,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4925,
+    "verse_number": 24,
+    "verse_key": "55:24",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166638,
+        "resource_id": 31,
+        "text": "A Lui appartiennent les vaisseaux élevés sur la mer comme des montagnes ;"
+      }
+    ]
+  },
+  {
+    "id": 4926,
+    "verse_number": 25,
+    "verse_key": "55:25",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 468,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166639,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4927,
+    "verse_number": 26,
+    "verse_key": "55:26",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166640,
+        "resource_id": 31,
+        "text": "Tout ce qui est sur elle [la terre] doit disparaître,"
+      }
+    ]
+  },
+  {
+    "id": 4928,
+    "verse_number": 27,
+    "verse_key": "55:27",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166641,
+        "resource_id": 31,
+        "text": "[Seule] subsistera La Face [Wajh]  de ton Seigneur, plein de majesté et de noblesse. <sup foot_note=232856>1</sup>"
+      }
+    ]
+  },
+  {
+    "id": 4929,
+    "verse_number": 28,
+    "verse_key": "55:28",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166642,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4930,
+    "verse_number": 29,
+    "verse_key": "55:29",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166643,
+        "resource_id": 31,
+        "text": "Ceux qui sont dans les cieux et la Terre L’implorent. Chaque jour, Il accomplit une œuvre nouvelle."
+      }
+    ]
+  },
+  {
+    "id": 4931,
+    "verse_number": 30,
+    "verse_key": "55:30",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166647,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous?"
+      }
+    ]
+  },
+  {
+    "id": 4932,
+    "verse_number": 31,
+    "verse_key": "55:31",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166646,
+        "resource_id": 31,
+        "text": "Nous allons bientôt entreprendre votre jugement, ô vous les deux charges [hommes et djinns]"
+      }
+    ]
+  },
+  {
+    "id": 4933,
+    "verse_number": 32,
+    "verse_key": "55:32",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166648,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4934,
+    "verse_number": 33,
+    "verse_key": "55:33",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166649,
+        "resource_id": 31,
+        "text": "Ô peuple de djinns et d’hommes ! si vous pouvez sortir du domaine des cieux et de la Terre, alors faites-le. Mais vous ne pourrez en sortir qu’à l’aide d’un pouvoir [illimité]."
+      }
+    ]
+  },
+  {
+    "id": 4935,
+    "verse_number": 34,
+    "verse_key": "55:34",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166650,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4936,
+    "verse_number": 35,
+    "verse_key": "55:35",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166651,
+        "resource_id": 31,
+        "text": "Il sera lancé contre vous un jet de feu et de fumée [ou de cuivre fondu], et vous ne serez pas secourus."
+      }
+    ]
+  },
+  {
+    "id": 4937,
+    "verse_number": 36,
+    "verse_key": "55:36",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166652,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4938,
+    "verse_number": 37,
+    "verse_key": "55:37",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166653,
+        "resource_id": 31,
+        "text": "Puis quand le ciel se fendra et deviendra alors écarlate comme le cuir rouge."
+      }
+    ]
+  },
+  {
+    "id": 4939,
+    "verse_number": 38,
+    "verse_key": "55:38",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166654,
+        "resource_id": 31,
+        "text": "Lequel des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4940,
+    "verse_number": 39,
+    "verse_key": "55:39",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166655,
+        "resource_id": 31,
+        "text": "Alors, ni aux hommes ni aux djinns, on ne posera des questions à propos de leurs péchés."
+      }
+    ]
+  },
+  {
+    "id": 4941,
+    "verse_number": 40,
+    "verse_key": "55:40",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 532,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166658,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4942,
+    "verse_number": 41,
+    "verse_key": "55:41",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166659,
+        "resource_id": 31,
+        "text": "On reconnaîtra les criminels à leurs traits. Ils seront donc saisis par les toupets et les pieds."
+      }
+    ]
+  },
+  {
+    "id": 4943,
+    "verse_number": 42,
+    "verse_key": "55:42",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166660,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4944,
+    "verse_number": 43,
+    "verse_key": "55:43",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166661,
+        "resource_id": 31,
+        "text": "Voilà l’Enfer que les criminels traitaient de mensonge."
+      }
+    ]
+  },
+  {
+    "id": 4945,
+    "verse_number": 44,
+    "verse_key": "55:44",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166662,
+        "resource_id": 31,
+        "text": "Ils feront le va-et-vient entre lui (l’Enfer) et une eau bouillante extrêmement chaude."
+      }
+    ]
+  },
+  {
+    "id": 4946,
+    "verse_number": 45,
+    "verse_key": "55:45",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 469,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166663,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4947,
+    "verse_number": 46,
+    "verse_key": "55:46",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166664,
+        "resource_id": 31,
+        "text": "et pour celui qui aura craint de comparaître devant son Seigneur, il y aura deux jardins ;"
+      }
+    ]
+  },
+  {
+    "id": 4948,
+    "verse_number": 47,
+    "verse_key": "55:47",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166665,
+        "resource_id": 31,
+        "text": "lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4949,
+    "verse_number": 48,
+    "verse_key": "55:48",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166666,
+        "resource_id": 31,
+        "text": "Aux branches touffues."
+      }
+    ]
+  },
+  {
+    "id": 4950,
+    "verse_number": 49,
+    "verse_key": "55:49",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 165555,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous?"
+      }
+    ]
+  },
+  {
+    "id": 4951,
+    "verse_number": 50,
+    "verse_key": "55:50",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166669,
+        "resource_id": 31,
+        "text": "Ils y trouveront deux sources courantes."
+      }
+    ]
+  },
+  {
+    "id": 4952,
+    "verse_number": 51,
+    "verse_key": "55:51",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166670,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4953,
+    "verse_number": 52,
+    "verse_key": "55:52",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166671,
+        "resource_id": 31,
+        "text": "Ils contiennent deux espèces de chaque fruit."
+      }
+    ]
+  },
+  {
+    "id": 4954,
+    "verse_number": 53,
+    "verse_key": "55:53",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166672,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4955,
+    "verse_number": 54,
+    "verse_key": "55:54",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166673,
+        "resource_id": 31,
+        "text": "ils seront accoudés sur des tapis doublés de brocart, et les fruits des deux jardins seront à leur portée (pour être cueillis)."
+      }
+    ]
+  },
+  {
+    "id": 4956,
+    "verse_number": 55,
+    "verse_key": "55:55",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166676,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4957,
+    "verse_number": 56,
+    "verse_key": "55:56",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166675,
+        "resource_id": 31,
+        "text": "Ils y trouveront celles [les houris] aux regards chastes, qu’avant eux aucun homme ou djinn n’aura déflorées."
+      }
+    ]
+  },
+  {
+    "id": 4958,
+    "verse_number": 57,
+    "verse_key": "55:57",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166680,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4959,
+    "verse_number": 58,
+    "verse_key": "55:58",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166677,
+        "resource_id": 31,
+        "text": "Elles seront telles le rubis et le corail."
+      }
+    ]
+  },
+  {
+    "id": 4960,
+    "verse_number": 59,
+    "verse_key": "55:59",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166678,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4961,
+    "verse_number": 60,
+    "verse_key": "55:60",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166681,
+        "resource_id": 31,
+        "text": "Y a-t-il d’autre récompense pour le bien, que le bien ?"
+      }
+    ]
+  },
+  {
+    "id": 4962,
+    "verse_number": 61,
+    "verse_key": "55:61",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166682,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4963,
+    "verse_number": 62,
+    "verse_key": "55:62",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166683,
+        "resource_id": 31,
+        "text": "En deçà de ces deux jardins il y aura deux autres jardins."
+      }
+    ]
+  },
+  {
+    "id": 4964,
+    "verse_number": 63,
+    "verse_key": "55:63",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166684,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4965,
+    "verse_number": 64,
+    "verse_key": "55:64",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166685,
+        "resource_id": 31,
+        "text": "Ils sont d’un vert sombre."
+      }
+    ]
+  },
+  {
+    "id": 4966,
+    "verse_number": 65,
+    "verse_key": "55:65",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166686,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4967,
+    "verse_number": 66,
+    "verse_key": "55:66",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166291,
+        "resource_id": 31,
+        "text": "Dans lesquelles il y aura deux sources jaillissantes."
+      }
+    ]
+  },
+  {
+    "id": 4968,
+    "verse_number": 67,
+    "verse_key": "55:67",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 533,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 154775,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4969,
+    "verse_number": 68,
+    "verse_key": "55:68",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 154983,
+        "resource_id": 31,
+        "text": "ils contiennent des fruits, des palmiers, et des grenadiers."
+      }
+    ]
+  },
+  {
+    "id": 4970,
+    "verse_number": 69,
+    "verse_key": "55:69",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 155153,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4971,
+    "verse_number": 70,
+    "verse_key": "55:70",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166689,
+        "resource_id": 31,
+        "text": "Là, il y aura des vertueuses et des belles."
+      }
+    ]
+  },
+  {
+    "id": 4972,
+    "verse_number": 71,
+    "verse_key": "55:71",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166690,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4973,
+    "verse_number": 72,
+    "verse_key": "55:72",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166691,
+        "resource_id": 31,
+        "text": "Des femmes aux grands yeux noirs cloîtrées dans les tentes,"
+      }
+    ]
+  },
+  {
+    "id": 4974,
+    "verse_number": 73,
+    "verse_key": "55:73",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166692,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4975,
+    "verse_number": 74,
+    "verse_key": "55:74",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166693,
+        "resource_id": 31,
+        "text": "Qu’avant eux aucun homme ou djinn n’a déflorées."
+      }
+    ]
+  },
+  {
+    "id": 4976,
+    "verse_number": 75,
+    "verse_key": "55:75",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166694,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4977,
+    "verse_number": 76,
+    "verse_key": "55:76",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166695,
+        "resource_id": 31,
+        "text": "Ils seront accoudés sur des coussins verts et des tapis épais et jolis."
+      }
+    ]
+  },
+  {
+    "id": 4978,
+    "verse_number": 77,
+    "verse_key": "55:77",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166696,
+        "resource_id": 31,
+        "text": "Lequel donc des bienfaits de votre Seigneur nierez-vous ?"
+      }
+    ]
+  },
+  {
+    "id": 4979,
+    "verse_number": 78,
+    "verse_key": "55:78",
+    "hizb_number": 54,
+    "rub_el_hizb_number": 213,
+    "ruku_number": 470,
+    "manzil_number": 7,
+    "sajdah_number": null,
+    "page_number": 534,
+    "juz_number": 27,
+    "translations": [
+      {
+        "id": 166697,
+        "resource_id": 31,
+        "text": "Béni soit le Nom de ton Seigneur, Plein de Majesté et de Munificence !"
+      }
+    ]
+  }
+]

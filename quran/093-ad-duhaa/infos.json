@@ -1,0 +1,18 @@
+{
+  "id": 93,
+  "revelation_place": "makkah",
+  "revelation_order": 11,
+  "bismillah_pre": true,
+  "name_simple": "Ad-Duhaa",
+  "name_complex": "Ađ-Đuĥaá",
+  "name_arabic": "الضحى",
+  "verses_count": 11,
+  "pages": [
+    596,
+    596
+  ],
+  "translated_name": {
+    "language_name": "french",
+    "name": "Le jour montant"
+  }
+}
