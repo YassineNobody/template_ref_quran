@@ -3,7 +3,7 @@ from search.search import Search
 from search.interfaces import VerseDict, TranslationDict, ChapterDictIncludePath
 
 
-class MultiTemplate:
+class PartsTemplate:
     def __init__(self, refs: List[Tuple[int, int, Optional[int]]]):
         """
         refs = liste de tuples (id_surah, start_v, end_v)
@@ -29,23 +29,10 @@ class MultiTemplate:
 
     def _write_html(self) -> str:
         html = """
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<title>Quran References</title>
-<link href="https://fonts.cdnfonts.com/css/kfgqpc-hafs-uthmanic-script" rel="stylesheet">
-
 <style>
-body {
-  font-family: 'KFGQPC HAFS Uthmanic Script', serif;
-  margin: 0;
-  padding: 20px;
-  background: #fff;
-  text-align: center;
-}
+@import url("https://fonts.cdnfonts.com/css/kfgqpc-hafs-uthmanic-script");
 
-.quran-container { max-width: 900px; margin: auto; }
+.quran-container { max-width: 900px; margin: auto; font-family: 'KFGQPC HAFS Uthmanic Script', serif; }
 .verse { margin: 0; direction: rtl; }
 .arabic { font-size: 22px; }
 .word { cursor: pointer; transition: background 0.2s ease; }
@@ -54,8 +41,6 @@ body {
 .translation-block { font-size: 15px; color: #333; text-align: center; }
 .reference { font-size: 14px; color: #555; font-style: italic;  }
 </style>
-</head>
-<body>
 
 <div class="quran-container">
 """
@@ -124,7 +109,5 @@ body {
     });
 })();
 </script>
-</body>
-</html>
 """
         return html

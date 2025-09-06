@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import Literal, Any
 
-from src.interfaces import ChapterDictIncludePath, VerseDict, TranslationDict
+from search.interfaces import ChapterDictIncludePath, VerseDict, TranslationDict
 
 
 class Search:
@@ -47,7 +47,7 @@ class Search:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
 
-    def resources(self, ptype: Literal["array", "column"] = "column") -> None:
+    def resources(self, ptype: Literal["array", "column"] = "column") ->  list[ChapterDictIncludePath]:
         if ptype == "column":
             for chapter in self.index_json:
                 print(
@@ -70,7 +70,7 @@ class Search:
                         f"{chapter['id']:>3} - {chapter['name_simple']:<20} - {chapter['translated_name']['name']}"
                     )
                 i += 2
-
+        return self.index_json
     def get_verses(
         self,
         id_surah: int,
