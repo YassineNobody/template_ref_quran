@@ -16,7 +16,7 @@
             "language_name": "french",
             "name": "L'ouverture"
         },
-        "path": "/Users/admin/quran.com/quran/001-al-fatihah"
+        "path": "quran/001-al-fatihah"
     },
     {
         "id": 2,
@@ -35,7 +35,7 @@
             "language_name": "french",
             "name": "La vache"
         },
-        "path": "/Users/admin/quran.com/quran/002-al-baqarah"
+        "path": "quran/002-al-baqarah"
     },
     {
         "id": 3,
@@ -54,7 +54,7 @@
             "language_name": "french",
             "name": "La famille de 'imran"
         },
-        "path": "/Users/admin/quran.com/quran/003-ali 'imran"
+        "path": "quran/003-ali 'imran"
     },
     {
         "id": 4,
@@ -73,7 +73,7 @@
             "language_name": "french",
             "name": "Les femmes"
         },
-        "path": "/Users/admin/quran.com/quran/004-an-nisa"
+        "path": "quran/004-an-nisa"
     },
     {
         "id": 5,
@@ -92,7 +92,7 @@
             "language_name": "french",
             "name": "La table servie"
         },
-        "path": "/Users/admin/quran.com/quran/005-al-ma'idah"
+        "path": "quran/005-al-ma'idah"
     },
     {
         "id": 6,
@@ -111,7 +111,7 @@
             "language_name": "french",
             "name": "Les bestiaux"
         },
-        "path": "/Users/admin/quran.com/quran/006-al-an'am"
+        "path": "quran/006-al-an'am"
     },
     {
         "id": 7,
@@ -130,7 +130,7 @@
             "language_name": "french",
             "name": "Al-A'raf"
         },
-        "path": "/Users/admin/quran.com/quran/007-al-a'raf"
+        "path": "quran/007-al-a'raf"
     },
     {
         "id": 8,
@@ -149,7 +149,7 @@
             "language_name": "french",
             "name": "Le butin"
         },
-        "path": "/Users/admin/quran.com/quran/008-al-anfal"
+        "path": "quran/008-al-anfal"
     },
     {
         "id": 9,
@@ -168,7 +168,7 @@
             "language_name": "french",
             "name": "Le repentir"
         },
-        "path": "/Users/admin/quran.com/quran/009-at-tawbah"
+        "path": "quran/009-at-tawbah"
     },
     {
         "id": 10,
@@ -187,7 +187,7 @@
             "language_name": "french",
             "name": "Jonas"
         },
-        "path": "/Users/admin/quran.com/quran/010-yunus"
+        "path": "quran/010-yunus"
     },
     {
         "id": 11,
@@ -206,7 +206,7 @@
             "language_name": "french",
             "name": "Houd"
         },
-        "path": "/Users/admin/quran.com/quran/011-hud"
+        "path": "quran/011-hud"
     },
     {
         "id": 12,
@@ -225,7 +225,7 @@
             "language_name": "french",
             "name": "Joseph"
         },
-        "path": "/Users/admin/quran.com/quran/012-yusuf"
+        "path": "quran/012-yusuf"
     },
     {
         "id": 13,
@@ -244,7 +244,7 @@
             "language_name": "french",
             "name": "Le tonnerre"
         },
-        "path": "/Users/admin/quran.com/quran/013-ar-ra'd"
+        "path": "quran/013-ar-ra'd"
     },
     {
         "id": 14,
@@ -263,7 +263,7 @@
             "language_name": "french",
             "name": "Abraham"
         },
-        "path": "/Users/admin/quran.com/quran/014-ibrahim"
+        "path": "quran/014-ibrahim"
     },
     {
         "id": 15,
@@ -282,7 +282,7 @@
             "language_name": "french",
             "name": "Al-Hijr"
         },
-        "path": "/Users/admin/quran.com/quran/015-al-hijr"
+        "path": "quran/015-al-hijr"
     },
     {
         "id": 16,
@@ -301,7 +301,7 @@
             "language_name": "french",
             "name": "Les abeilles"
         },
-        "path": "/Users/admin/quran.com/quran/016-an-nahl"
+        "path": "quran/016-an-nahl"
     },
     {
         "id": 17,
@@ -320,7 +320,7 @@
             "language_name": "french",
             "name": "Le voyage nocturne"
         },
-        "path": "/Users/admin/quran.com/quran/017-al-isra"
+        "path": "quran/017-al-isra"
     },
     {
         "id": 18,
@@ -339,7 +339,7 @@
             "language_name": "french",
             "name": "La caverne"
         },
-        "path": "/Users/admin/quran.com/quran/018-al-kahf"
+        "path": "quran/018-al-kahf"
     },
     {
         "id": 19,
@@ -358,7 +358,7 @@
             "language_name": "french",
             "name": "Marie"
         },
-        "path": "/Users/admin/quran.com/quran/019-maryam"
+        "path": "quran/019-maryam"
     },
     {
         "id": 20,
@@ -377,7 +377,7 @@
             "language_name": "french",
             "name": "Ta-Ha"
         },
-        "path": "/Users/admin/quran.com/quran/020-taha"
+        "path": "quran/020-taha"
     },
     {
         "id": 21,
@@ -396,7 +396,7 @@
             "language_name": "french",
             "name": "Les prophètes"
         },
-        "path": "/Users/admin/quran.com/quran/021-al-anbya"
+        "path": "quran/021-al-anbya"
     },
     {
         "id": 22,
@@ -415,7 +415,7 @@
             "language_name": "french",
             "name": "Le pèlerinage"
         },
-        "path": "/Users/admin/quran.com/quran/022-al-hajj"
+        "path": "quran/022-al-hajj"
     },
     {
         "id": 23,
@@ -434,7 +434,7 @@
             "language_name": "french",
             "name": "Les croyants"
         },
-        "path": "/Users/admin/quran.com/quran/023-al-mu'minun"
+        "path": "quran/023-al-mu'minun"
     },
     {
         "id": 24,
@@ -453,7 +453,7 @@
             "language_name": "french",
             "name": "La lumière"
         },
-        "path": "/Users/admin/quran.com/quran/024-an-nur"
+        "path": "quran/024-an-nur"
     },
     {
         "id": 25,
@@ -472,7 +472,7 @@
             "language_name": "french",
             "name": "Le discernement"
         },
-        "path": "/Users/admin/quran.com/quran/025-al-furqan"
+        "path": "quran/025-al-furqan"
     },
     {
         "id": 26,
@@ -491,7 +491,7 @@
             "language_name": "french",
             "name": "Les poètes"
         },
-        "path": "/Users/admin/quran.com/quran/026-ash-shu'ara"
+        "path": "quran/026-ash-shu'ara"
     },
     {
         "id": 27,
@@ -510,7 +510,7 @@
             "language_name": "french",
             "name": "Les fourmis"
         },
-        "path": "/Users/admin/quran.com/quran/027-an-naml"
+        "path": "quran/027-an-naml"
     },
     {
         "id": 28,
@@ -529,7 +529,7 @@
             "language_name": "french",
             "name": "Le récit"
         },
-        "path": "/Users/admin/quran.com/quran/028-al-qasas"
+        "path": "quran/028-al-qasas"
     },
     {
         "id": 29,
@@ -548,7 +548,7 @@
             "language_name": "french",
             "name": "L'araignée"
         },
-        "path": "/Users/admin/quran.com/quran/029-al-'ankabut"
+        "path": "quran/029-al-'ankabut"
     },
     {
         "id": 30,
@@ -567,7 +567,7 @@
             "language_name": "french",
             "name": "Les romains"
         },
-        "path": "/Users/admin/quran.com/quran/030-ar-rum"
+        "path": "quran/030-ar-rum"
     },
     {
         "id": 31,
@@ -586,7 +586,7 @@
             "language_name": "french",
             "name": "Louqman"
         },
-        "path": "/Users/admin/quran.com/quran/031-luqman"
+        "path": "quran/031-luqman"
     },
     {
         "id": 32,
@@ -605,7 +605,7 @@
             "language_name": "french",
             "name": "La prosternation"
         },
-        "path": "/Users/admin/quran.com/quran/032-as-sajdah"
+        "path": "quran/032-as-sajdah"
     },
     {
         "id": 33,
@@ -624,7 +624,7 @@
             "language_name": "french",
             "name": "Les coalisés"
         },
-        "path": "/Users/admin/quran.com/quran/033-al-ahzab"
+        "path": "quran/033-al-ahzab"
     },
     {
         "id": 34,
@@ -643,7 +643,7 @@
             "language_name": "french",
             "name": "Saba'"
         },
-        "path": "/Users/admin/quran.com/quran/034-saba"
+        "path": "quran/034-saba"
     },
     {
         "id": 35,
@@ -662,7 +662,7 @@
             "language_name": "french",
             "name": "Le Créateur"
         },
-        "path": "/Users/admin/quran.com/quran/035-fatir"
+        "path": "quran/035-fatir"
     },
     {
         "id": 36,
@@ -681,7 +681,7 @@
             "language_name": "french",
             "name": "Ya-Sin"
         },
-        "path": "/Users/admin/quran.com/quran/036-ya-sin"
+        "path": "quran/036-ya-sin"
     },
     {
         "id": 37,
@@ -700,7 +700,7 @@
             "language_name": "french",
             "name": "Les rangés"
         },
-        "path": "/Users/admin/quran.com/quran/037-as-saffat"
+        "path": "quran/037-as-saffat"
     },
     {
         "id": 38,
@@ -719,7 +719,7 @@
             "language_name": "french",
             "name": "Sad"
         },
-        "path": "/Users/admin/quran.com/quran/038-sad"
+        "path": "quran/038-sad"
     },
     {
         "id": 39,
@@ -738,7 +738,7 @@
             "language_name": "french",
             "name": "Les groupes"
         },
-        "path": "/Users/admin/quran.com/quran/039-az-zumar"
+        "path": "quran/039-az-zumar"
     },
     {
         "id": 40,
@@ -757,7 +757,7 @@
             "language_name": "french",
             "name": "Le Pardonneur"
         },
-        "path": "/Users/admin/quran.com/quran/040-ghafir"
+        "path": "quran/040-ghafir"
     },
     {
         "id": 41,
@@ -776,7 +776,7 @@
             "language_name": "french",
             "name": "Les versets explicites"
         },
-        "path": "/Users/admin/quran.com/quran/041-fussilat"
+        "path": "quran/041-fussilat"
     },
     {
         "id": 42,
@@ -795,7 +795,7 @@
             "language_name": "french",
             "name": "La concertation"
         },
-        "path": "/Users/admin/quran.com/quran/042-ash-shuraa"
+        "path": "quran/042-ash-shuraa"
     },
     {
         "id": 43,
@@ -814,7 +814,7 @@
             "language_name": "french",
             "name": "L'ornement"
         },
-        "path": "/Users/admin/quran.com/quran/043-az-zukhruf"
+        "path": "quran/043-az-zukhruf"
     },
     {
         "id": 44,
@@ -833,7 +833,7 @@
             "language_name": "french",
             "name": "La fumée"
         },
-        "path": "/Users/admin/quran.com/quran/044-ad-dukhan"
+        "path": "quran/044-ad-dukhan"
     },
     {
         "id": 45,
@@ -852,7 +852,7 @@
             "language_name": "french",
             "name": "L'agenouillée"
         },
-        "path": "/Users/admin/quran.com/quran/045-al-jathiyah"
+        "path": "quran/045-al-jathiyah"
     },
     {
         "id": 46,
@@ -871,7 +871,7 @@
             "language_name": "french",
             "name": "Al-Ahqaf"
         },
-        "path": "/Users/admin/quran.com/quran/046-al-ahqaf"
+        "path": "quran/046-al-ahqaf"
     },
     {
         "id": 47,
@@ -890,7 +890,7 @@
             "language_name": "french",
             "name": "Mouhammad"
         },
-        "path": "/Users/admin/quran.com/quran/047-muhammad"
+        "path": "quran/047-muhammad"
     },
     {
         "id": 48,
@@ -909,7 +909,7 @@
             "language_name": "french",
             "name": "La victoire éclatante"
         },
-        "path": "/Users/admin/quran.com/quran/048-al-fath"
+        "path": "quran/048-al-fath"
     },
     {
         "id": 49,
@@ -928,7 +928,7 @@
             "language_name": "french",
             "name": "Les appartements"
         },
-        "path": "/Users/admin/quran.com/quran/049-al-hujurat"
+        "path": "quran/049-al-hujurat"
     },
     {
         "id": 50,
@@ -947,7 +947,7 @@
             "language_name": "french",
             "name": "Qaf"
         },
-        "path": "/Users/admin/quran.com/quran/050-qaf"
+        "path": "quran/050-qaf"
     },
     {
         "id": 51,
@@ -966,7 +966,7 @@
             "language_name": "french",
             "name": "Qui éparpillent"
         },
-        "path": "/Users/admin/quran.com/quran/051-adh-dhariyat"
+        "path": "quran/051-adh-dhariyat"
     },
     {
         "id": 52,
@@ -985,7 +985,7 @@
             "language_name": "french",
             "name": "Le mont At-Tour"
         },
-        "path": "/Users/admin/quran.com/quran/052-at-tur"
+        "path": "quran/052-at-tur"
     },
     {
         "id": 53,
@@ -1004,7 +1004,7 @@
             "language_name": "french",
             "name": "L'étoile"
         },
-        "path": "/Users/admin/quran.com/quran/053-an-najm"
+        "path": "quran/053-an-najm"
     },
     {
         "id": 54,
@@ -1023,7 +1023,7 @@
             "language_name": "french",
             "name": "La lune"
         },
-        "path": "/Users/admin/quran.com/quran/054-al-qamar"
+        "path": "quran/054-al-qamar"
     },
     {
         "id": 55,
@@ -1042,7 +1042,7 @@
             "language_name": "french",
             "name": "Le Tout Miséricordieux"
         },
-        "path": "/Users/admin/quran.com/quran/055-ar-rahman"
+        "path": "quran/055-ar-rahman"
     },
     {
         "id": 56,
@@ -1061,7 +1061,7 @@
             "language_name": "french",
             "name": "L'inévitable"
         },
-        "path": "/Users/admin/quran.com/quran/056-al-waqi'ah"
+        "path": "quran/056-al-waqi'ah"
     },
     {
         "id": 57,
@@ -1080,7 +1080,7 @@
             "language_name": "french",
             "name": "Le fer"
         },
-        "path": "/Users/admin/quran.com/quran/057-al-hadid"
+        "path": "quran/057-al-hadid"
     },
     {
         "id": 58,
@@ -1099,7 +1099,7 @@
             "language_name": "french",
             "name": "La discussion"
         },
-        "path": "/Users/admin/quran.com/quran/058-al-mujadila"
+        "path": "quran/058-al-mujadila"
     },
     {
         "id": 59,
@@ -1118,7 +1118,7 @@
             "language_name": "french",
             "name": "L'exode"
         },
-        "path": "/Users/admin/quran.com/quran/059-al-hashr"
+        "path": "quran/059-al-hashr"
     },
     {
         "id": 60,
@@ -1137,7 +1137,7 @@
             "language_name": "french",
             "name": "L'éprouvée"
         },
-        "path": "/Users/admin/quran.com/quran/060-al-mumtahanah"
+        "path": "quran/060-al-mumtahanah"
     },
     {
         "id": 61,
@@ -1156,7 +1156,7 @@
             "language_name": "french",
             "name": "Le rang"
         },
-        "path": "/Users/admin/quran.com/quran/061-as-saf"
+        "path": "quran/061-as-saf"
     },
     {
         "id": 62,
@@ -1175,7 +1175,7 @@
             "language_name": "french",
             "name": "Le vendredi"
         },
-        "path": "/Users/admin/quran.com/quran/062-al-jumu'ah"
+        "path": "quran/062-al-jumu'ah"
     },
     {
         "id": 63,
@@ -1194,7 +1194,7 @@
             "language_name": "french",
             "name": "Les hypocrites"
         },
-        "path": "/Users/admin/quran.com/quran/063-al-munafiqun"
+        "path": "quran/063-al-munafiqun"
     },
     {
         "id": 64,
@@ -1213,7 +1213,7 @@
             "language_name": "french",
             "name": "La grande perte"
         },
-        "path": "/Users/admin/quran.com/quran/064-at-taghabun"
+        "path": "quran/064-at-taghabun"
     },
     {
         "id": 65,
@@ -1232,7 +1232,7 @@
             "language_name": "french",
             "name": "Le divorce"
         },
-        "path": "/Users/admin/quran.com/quran/065-at-talaq"
+        "path": "quran/065-at-talaq"
     },
     {
         "id": 66,
@@ -1251,7 +1251,7 @@
             "language_name": "french",
             "name": "L'interdiction"
         },
-        "path": "/Users/admin/quran.com/quran/066-at-tahrim"
+        "path": "quran/066-at-tahrim"
     },
     {
         "id": 67,
@@ -1270,7 +1270,7 @@
             "language_name": "french",
             "name": "La royauté"
         },
-        "path": "/Users/admin/quran.com/quran/067-al-mulk"
+        "path": "quran/067-al-mulk"
     },
     {
         "id": 68,
@@ -1289,7 +1289,7 @@
             "language_name": "french",
             "name": "La plume"
         },
-        "path": "/Users/admin/quran.com/quran/068-al-qalam"
+        "path": "quran/068-al-qalam"
     },
     {
         "id": 69,
@@ -1308,7 +1308,7 @@
             "language_name": "french",
             "name": "L'inéluctable"
         },
-        "path": "/Users/admin/quran.com/quran/069-al-haqqah"
+        "path": "quran/069-al-haqqah"
     },
     {
         "id": 70,
@@ -1327,7 +1327,7 @@
             "language_name": "french",
             "name": "Les voies d'ascension"
         },
-        "path": "/Users/admin/quran.com/quran/070-al-ma'arij"
+        "path": "quran/070-al-ma'arij"
     },
     {
         "id": 71,
@@ -1346,7 +1346,7 @@
             "language_name": "french",
             "name": "Noé"
         },
-        "path": "/Users/admin/quran.com/quran/071-nuh"
+        "path": "quran/071-nuh"
     },
     {
         "id": 72,
@@ -1365,7 +1365,7 @@
             "language_name": "french",
             "name": "Les djinns"
         },
-        "path": "/Users/admin/quran.com/quran/072-al-jinn"
+        "path": "quran/072-al-jinn"
     },
     {
         "id": 73,
@@ -1384,7 +1384,7 @@
             "language_name": "french",
             "name": "L'enveloppé"
         },
-        "path": "/Users/admin/quran.com/quran/073-al-muzzammil"
+        "path": "quran/073-al-muzzammil"
     },
     {
         "id": 74,
@@ -1403,7 +1403,7 @@
             "language_name": "french",
             "name": "Celui qui se couvre"
         },
-        "path": "/Users/admin/quran.com/quran/074-al-muddaththir"
+        "path": "quran/074-al-muddaththir"
     },
     {
         "id": 75,
@@ -1422,7 +1422,7 @@
             "language_name": "french",
             "name": "La résurrection"
         },
-        "path": "/Users/admin/quran.com/quran/075-al-qiyamah"
+        "path": "quran/075-al-qiyamah"
     },
     {
         "id": 76,
@@ -1441,7 +1441,7 @@
             "language_name": "french",
             "name": "L'homme"
         },
-        "path": "/Users/admin/quran.com/quran/076-al-insan"
+        "path": "quran/076-al-insan"
     },
     {
         "id": 77,
@@ -1460,7 +1460,7 @@
             "language_name": "french",
             "name": "Les envoyés"
         },
-        "path": "/Users/admin/quran.com/quran/077-al-mursalat"
+        "path": "quran/077-al-mursalat"
     },
     {
         "id": 78,
@@ -1479,7 +1479,7 @@
             "language_name": "french",
             "name": "La nouvelle"
         },
-        "path": "/Users/admin/quran.com/quran/078-an-naba"
+        "path": "quran/078-an-naba"
     },
     {
         "id": 79,
@@ -1498,7 +1498,7 @@
             "language_name": "french",
             "name": "Ceux qui arrachent"
         },
-        "path": "/Users/admin/quran.com/quran/079-an-nazi'at"
+        "path": "quran/079-an-nazi'at"
     },
     {
         "id": 80,
@@ -1517,7 +1517,7 @@
             "language_name": "french",
             "name": "Il s'est renfrogné"
         },
-        "path": "/Users/admin/quran.com/quran/080-'abasa"
+        "path": "quran/080-'abasa"
     },
     {
         "id": 81,
@@ -1536,7 +1536,7 @@
             "language_name": "french",
             "name": "L'obscurcissement"
         },
-        "path": "/Users/admin/quran.com/quran/081-at-takwir"
+        "path": "quran/081-at-takwir"
     },
     {
         "id": 82,
@@ -1555,7 +1555,7 @@
             "language_name": "french",
             "name": "La rupture"
         },
-        "path": "/Users/admin/quran.com/quran/082-al-infitar"
+        "path": "quran/082-al-infitar"
     },
     {
         "id": 83,
@@ -1574,7 +1574,7 @@
             "language_name": "french",
             "name": "Les fraudeurs"
         },
-        "path": "/Users/admin/quran.com/quran/083-al-mutaffifin"
+        "path": "quran/083-al-mutaffifin"
     },
     {
         "id": 84,
@@ -1593,7 +1593,7 @@
             "language_name": "french",
             "name": "La déchirure"
         },
-        "path": "/Users/admin/quran.com/quran/084-al-inshiqaq"
+        "path": "quran/084-al-inshiqaq"
     },
     {
         "id": 85,
@@ -1612,7 +1612,7 @@
             "language_name": "french",
             "name": "Les constellations"
         },
-        "path": "/Users/admin/quran.com/quran/085-al-buruj"
+        "path": "quran/085-al-buruj"
     },
     {
         "id": 86,
@@ -1631,7 +1631,7 @@
             "language_name": "french",
             "name": "L'astre nocturne"
         },
-        "path": "/Users/admin/quran.com/quran/086-at-tariq"
+        "path": "quran/086-at-tariq"
     },
     {
         "id": 87,
@@ -1650,7 +1650,7 @@
             "language_name": "french",
             "name": "Le Très-Haut"
         },
-        "path": "/Users/admin/quran.com/quran/087-al-a'la"
+        "path": "quran/087-al-a'la"
     },
     {
         "id": 88,
@@ -1669,7 +1669,7 @@
             "language_name": "french",
             "name": "L'enveloppante"
         },
-        "path": "/Users/admin/quran.com/quran/088-al-ghashiyah"
+        "path": "quran/088-al-ghashiyah"
     },
     {
         "id": 89,
@@ -1688,7 +1688,7 @@
             "language_name": "french",
             "name": "L'aube"
         },
-        "path": "/Users/admin/quran.com/quran/089-al-fajr"
+        "path": "quran/089-al-fajr"
     },
     {
         "id": 90,
@@ -1707,7 +1707,7 @@
             "language_name": "french",
             "name": "La cité"
         },
-        "path": "/Users/admin/quran.com/quran/090-al-balad"
+        "path": "quran/090-al-balad"
     },
     {
         "id": 91,
@@ -1726,7 +1726,7 @@
             "language_name": "french",
             "name": "Le soleil"
         },
-        "path": "/Users/admin/quran.com/quran/091-ash-shams"
+        "path": "quran/091-ash-shams"
     },
     {
         "id": 92,
@@ -1745,7 +1745,7 @@
             "language_name": "french",
             "name": "La nuit"
         },
-        "path": "/Users/admin/quran.com/quran/092-al-layl"
+        "path": "quran/092-al-layl"
     },
     {
         "id": 93,
@@ -1764,7 +1764,7 @@
             "language_name": "french",
             "name": "Le jour montant"
         },
-        "path": "/Users/admin/quran.com/quran/093-ad-duhaa"
+        "path": "quran/093-ad-duhaa"
     },
     {
         "id": 94,
@@ -1783,7 +1783,7 @@
             "language_name": "french",
             "name": "L'ouverture"
         },
-        "path": "/Users/admin/quran.com/quran/094-ash-sharh"
+        "path": "quran/094-ash-sharh"
     },
     {
         "id": 95,
@@ -1802,7 +1802,7 @@
             "language_name": "french",
             "name": "Les figues"
         },
-        "path": "/Users/admin/quran.com/quran/095-at-tin"
+        "path": "quran/095-at-tin"
     },
     {
         "id": 96,
@@ -1821,7 +1821,7 @@
             "language_name": "french",
             "name": "L'adhérence"
         },
-        "path": "/Users/admin/quran.com/quran/096-al-'alaq"
+        "path": "quran/096-al-'alaq"
     },
     {
         "id": 97,
@@ -1840,7 +1840,7 @@
             "language_name": "french",
             "name": "La destinée"
         },
-        "path": "/Users/admin/quran.com/quran/097-al-qadr"
+        "path": "quran/097-al-qadr"
     },
     {
         "id": 98,
@@ -1859,7 +1859,7 @@
             "language_name": "french",
             "name": "La preuve"
         },
-        "path": "/Users/admin/quran.com/quran/098-al-bayyinah"
+        "path": "quran/098-al-bayyinah"
     },
     {
         "id": 99,
@@ -1878,7 +1878,7 @@
             "language_name": "french",
             "name": "Le séisme"
         },
-        "path": "/Users/admin/quran.com/quran/099-az-zalzalah"
+        "path": "quran/099-az-zalzalah"
     },
     {
         "id": 100,
@@ -1897,7 +1897,7 @@
             "language_name": "french",
             "name": "Les coursiers"
         },
-        "path": "/Users/admin/quran.com/quran/100-al-'adiyat"
+        "path": "quran/100-al-'adiyat"
     },
     {
         "id": 101,
@@ -1916,7 +1916,7 @@
             "language_name": "french",
             "name": "Le fracas"
         },
-        "path": "/Users/admin/quran.com/quran/101-al-qari'ah"
+        "path": "quran/101-al-qari'ah"
     },
     {
         "id": 102,
@@ -1935,7 +1935,7 @@
             "language_name": "french",
             "name": "La course aux richesses"
         },
-        "path": "/Users/admin/quran.com/quran/102-at-takathur"
+        "path": "quran/102-at-takathur"
     },
     {
         "id": 103,
@@ -1954,7 +1954,7 @@
             "language_name": "french",
             "name": "Le temps"
         },
-        "path": "/Users/admin/quran.com/quran/103-al-'asr"
+        "path": "quran/103-al-'asr"
     },
     {
         "id": 104,
@@ -1973,7 +1973,7 @@
             "language_name": "french",
             "name": "Les calomniateurs"
         },
-        "path": "/Users/admin/quran.com/quran/104-al-humazah"
+        "path": "quran/104-al-humazah"
     },
     {
         "id": 105,
@@ -1992,7 +1992,7 @@
             "language_name": "french",
             "name": "L'éléphant"
         },
-        "path": "/Users/admin/quran.com/quran/105-al-fil"
+        "path": "quran/105-al-fil"
     },
     {
         "id": 106,
@@ -2011,7 +2011,7 @@
             "language_name": "french",
             "name": "Les Quraysh"
         },
-        "path": "/Users/admin/quran.com/quran/106-quraysh"
+        "path": "quran/106-quraysh"
     },
     {
         "id": 107,
@@ -2030,7 +2030,7 @@
             "language_name": "french",
             "name": "L'entraide"
         },
-        "path": "/Users/admin/quran.com/quran/107-al-ma'un"
+        "path": "quran/107-al-ma'un"
     },
     {
         "id": 108,
@@ -2049,7 +2049,7 @@
             "language_name": "french",
             "name": "L'abondance"
         },
-        "path": "/Users/admin/quran.com/quran/108-al-kawthar"
+        "path": "quran/108-al-kawthar"
     },
     {
         "id": 109,
@@ -2068,7 +2068,7 @@
             "language_name": "french",
             "name": "Les mécréants"
         },
-        "path": "/Users/admin/quran.com/quran/109-al-kafirun"
+        "path": "quran/109-al-kafirun"
     },
     {
         "id": 110,
@@ -2087,7 +2087,7 @@
             "language_name": "french",
             "name": "Le secours"
         },
-        "path": "/Users/admin/quran.com/quran/110-an-nasr"
+        "path": "quran/110-an-nasr"
     },
     {
         "id": 111,
@@ -2106,7 +2106,7 @@
             "language_name": "french",
             "name": "Les fibres"
         },
-        "path": "/Users/admin/quran.com/quran/111-al-masad"
+        "path": "quran/111-al-masad"
     },
     {
         "id": 112,
@@ -2125,7 +2125,7 @@
             "language_name": "french",
             "name": "La sincérité"
         },
-        "path": "/Users/admin/quran.com/quran/112-al-ikhlas"
+        "path": "quran/112-al-ikhlas"
     },
     {
         "id": 113,
@@ -2144,7 +2144,7 @@
             "language_name": "french",
             "name": "L'aube naissante"
         },
-        "path": "/Users/admin/quran.com/quran/113-al-falaq"
+        "path": "quran/113-al-falaq"
     },
     {
         "id": 114,
@@ -2163,6 +2163,6 @@
             "language_name": "french",
             "name": "Les humains"
         },
-        "path": "/Users/admin/quran.com/quran/114-an-nas"
+        "path": "quran/114-an-nas"
     }
 ]

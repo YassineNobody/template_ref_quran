@@ -15,7 +15,13 @@ class Search:
 
     def _read_index(self) -> list[ChapterDictIncludePath]:
         with open(self.index_json_path, "r", encoding="utf-8") as f:
-            return json.load(f)
+            buffer: list[ChapterDictIncludePath] = json.load(f)
+
+        def format_path(x: ChapterDictIncludePath):
+            x["path"] = Path(__file__).parent.parent.joinpath(x["path"]).as_posix()
+            return x
+        newbuffer = map(format_path, buffer)
+        return list(newbuffer)
 
     def find_complete_surah_info(
         self, key: Literal["id", "name_simple", "name_fr"], value: Any
@@ -47,7 +53,9 @@ class Search:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
 
-    def resources(self, ptype: Literal["array", "column"] = "column") ->  list[ChapterDictIncludePath]:
+    def resources(
+        self, ptype: Literal["array", "column"] = "column"
+    ) -> list[ChapterDictIncludePath]:
         if ptype == "column":
             for chapter in self.index_json:
                 print(
@@ -71,6 +79,7 @@ class Search:
                     )
                 i += 2
         return self.index_json
+
     def get_verses(
         self,
         id_surah: int,
