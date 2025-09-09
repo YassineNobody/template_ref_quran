@@ -32,12 +32,47 @@ class PartsTemplate:
 <style>
 @import url("https://fonts.cdnfonts.com/css/kfgqpc-hafs-uthmanic-script");
 
-.quran-container { max-width: 900px; margin: auto; font-family: 'KFGQPC HAFS Uthmanic Script', serif; }
-.verse { margin: 0; direction: rtl; }
-.arabic { font-size: 22px; }
-.play-verse { cursor: pointer; margin-right: 6px; color: #007BFF; font-size: 18px; vertical-align: middle; }
-.translation-block { font-size: 15px; color: #333; text-align: center; margin-top: 0.5rem; }
-.reference { font-size: 14px; color: #555; font-style: italic; margin-bottom: 1.5rem; }
+  .quran-container {
+    max-width: 900px;
+    font-family: "KFGQPC HAFS Uthmanic Script", serif;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    height: 100%;
+    width: 100%;
+  }
+  .verse {
+    margin: 0;
+    direction: rtl;
+  }
+  .arabic {
+    font-size: 22px;
+  }
+  .play-verse {
+    cursor: pointer;
+    margin-right: 6px;
+    color: #007bff;
+    font-size: 18px;
+    vertical-align: middle;
+  }
+  .translation-block {
+    font-size: 15px;
+    color: #333;
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+  .reference {
+    font-size: 14px;
+    color: #555;
+    font-style: italic;
+    margin-bottom: 1.5rem;
+  }
+  .reference-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
 </style>
 
 <div class="quran-container">
@@ -63,16 +98,16 @@ class PartsTemplate:
             # Traductions
             html += '<div class="translation-block">\n'
             for tr in translation:
-                html += f'  <div class="translation-verse">({tr["verse_number"]}) {tr["translations"][0]["text"]}</div>\n'
+                html += f'  <div class="translation-verse">{tr["translations"][0]["text"]}</div>\n'
             html += "</div>\n"
 
             # Référence
             start_v = verses[0]["verse_number"]
             end_v = verses[-1]["verse_number"]
             if start_v == end_v:
-                ref = f"— Sourate {info['name_simple']} ({info['translated_name']['name']}), v.{start_v}"
+                ref = f"Sourate {info['name_simple']} ({info['translated_name']['name']}), v.{start_v}"
             else:
-                ref = f"— Sourate {info['name_simple']} ({info['translated_name']['name']}), v.{start_v}–{end_v}"
+                ref = f"Sourate {info['name_simple']} ({info['translated_name']['name']}), v.{start_v}–{end_v}"
             html += f'<div class="reference">{ref}</div>\n'
 
             html += "</div>\n"  # fin du bloc
