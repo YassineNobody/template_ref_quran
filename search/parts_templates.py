@@ -37,13 +37,13 @@ class PartsTemplate:
 <style>
 @import url("https://fonts.cdnfonts.com/css/kfgqpc-hafs-uthmanic-script");
 
+
 .quran-container {{
   max-width: 900px;
-  font-family: "KFGQPC HAFS Uthmanic Script", serif;
+  margin: auto;
   display: flex;
   flex-direction: column;
-  gap: 4px;
-  width: 100%;
+  gap: 6px;
 }}
 .verse {{
   margin: 0;
@@ -51,6 +51,8 @@ class PartsTemplate:
 }}
 .arabic {{
   font-size: 22px;
+  text-align: center;
+  line-height: 1.8;
 }}
 .play-verse {{
   cursor: pointer;
@@ -72,11 +74,14 @@ class PartsTemplate:
   margin-bottom: 1.5rem;
 }}
 .reference-block {{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}}
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }}
+            .quran-container svg {{
+        margin-right: 10px;
+      }}
 </style>
 
 <div class="quran-container">

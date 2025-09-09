@@ -62,6 +62,8 @@ body {{
 }}
 .arabic {{
   font-size: 22px;
+  text-align: center;
+  line-height: 1.8;
 }}
 .play-verse {{
   cursor: pointer;
@@ -82,6 +84,15 @@ body {{
   font-style: italic;
   margin-bottom: 1.5rem;
 }}
+.reference-block {{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }}
+            .quran-container svg {{
+        margin-right: 10px;
+      }}
 </style>
 </head>
 <body>
