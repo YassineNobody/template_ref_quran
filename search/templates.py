@@ -48,11 +48,9 @@ body {
 .quran-container { max-width: 900px; margin: auto; }
 .verse { margin: 0; direction: rtl; }
 .arabic { font-size: 22px; }
-.word { cursor: pointer; transition: background 0.2s ease; }
-.word:hover { background: #f0f0f0; }
-.play-verse { cursor: pointer; margin-right: 6px; color: #007BFF; font-size: 16px; vertical-align: middle; }
-.translation-block { font-size: 15px; color: #333; text-align: center; }
-.reference { font-size: 14px; color: #555; font-style: italic;  }
+.play-verse { cursor: pointer; margin-right: 6px; color: #007BFF; font-size: 18px; vertical-align: middle; }
+.translation-block { font-size: 15px; color: #333; text-align: center; margin-top: 0.5rem; }
+.reference { font-size: 14px; color: #555; font-style: italic; margin-bottom: 1.5rem; }
 </style>
 </head>
 <body>
@@ -60,27 +58,17 @@ body {
 <div class="quran-container">
 """
 
-        # 🔹 Boucle sur chaque bloc (sourate demandée)
-        # 🔹 Boucle sur chaque bloc (sourate demandée)
+        # 🔹 Boucle sur chaque bloc
         for info, verses, translation in self.blocks:
-            html += '<div class="reference-block">\n'  # 🔹 conteneur pour une référence
+            html += '<div class="reference-block">\n'
 
-            # Partie arabe
+            # Partie arabe (sans mot cliquable)
             for verse in verses:
                 html += '<div class="verse">\n'
                 html += '  <div class="arabic">\n'
+                html += f"    {verse['text_uthmani']}\n"
 
-                for w in verse["words"]:
-                    translit = w.get("transliteration", {}).get("text") or ""
-                    audio = w.get("audio_url")
-                    if audio:
-                        html += (
-                            f'    <span class="word" data-audio="{audio}" title="{translit}">'
-                            f'{w["text_uthmani"]}</span>\n'
-                        )
-                    else:
-                        html += f'    <span class="word" title="{translit}">{w["text_uthmani"]}</span>\n'
-
+                # ✅ bouton lecture du verset uniquement
                 if verse.get("audio", {}).get("url"):
                     html += f'    <span class="play-verse" data-audio="{verse["audio"]["url"]}">▶</span>\n'
 
@@ -90,7 +78,7 @@ body {
             # Traductions
             html += '<div class="translation-block">\n'
             for tr in translation:
-                html += f'  <div class="translation-verse">({tr["verse_number"]}) {tr["translations"][0]["text"]}</div>\n'
+                html += f'  <div class="translation-verse">{tr["translations"][0]["text"]}</div>\n'
             html += "</div>\n"
 
             # Référence
@@ -102,20 +90,14 @@ body {
                 ref = f"— Sourate {info['name_simple']} ({info['translated_name']['name']}), v.{start_v}–{end_v}"
             html += f'<div class="reference">{ref}</div>\n'
 
-            html += "</div>\n"  # 🔹 fin du bloc
+            html += "</div>\n"  # fin du bloc
 
-        # --- JS ---
+        # --- JS (uniquement audio verset) ---
         html += """
 </div>
 <script>
 (function(){
     let player = new Audio();
-    document.querySelectorAll(".word[data-audio]").forEach(span => {
-        span.addEventListener("click", () => {
-            const url = span.getAttribute("data-audio");
-            if (url) { player.src = url; player.play(); }
-        });
-    });
     document.querySelectorAll(".play-verse[data-audio]").forEach(btn => {
         btn.addEventListener("click", () => {
             const url = btn.getAttribute("data-audio");
